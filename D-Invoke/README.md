@@ -42,3 +42,9 @@ NtAllocateVirtualMemory fSyscallAllocateMemory = (NtAllocateVirtualMemory)Marsha
 1. If you open handles, don’t forget to close them again.
 2. When done with manually mapped modules, free them from memory to avoid memory scanners.
 3. Hide code in locations it would normally exist, such as file-backed sections.
+
+## References
+- [Emulating Covert Operations - Dynamic Invocation (Avoiding PInvoke & API Hooks)](https://thewover.github.io/Dynamic-Invoke/)
+- [Dynamic Invocation in .NET to bypass hooks](https://blog.nviso.eu/2020/11/20/dynamic-invocation-in-net-to-bypass-hooks/)
+- [A tale of EDR bypass methods](https://s3cur3th1ssh1t.github.io/A-tale-of-EDR-bypass-methods/)
+- [D/Invoke & GadgetToJScript](https://rastamouse.me/d-invoke-gadgettojscript/)
