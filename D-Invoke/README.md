@@ -1,6 +1,9 @@
 # D/Invoke
 Dynamic Invocation for Covert Operations (Avoiding P/Invoke & API Hooks)
 
+## Why D/Invoke?
+Rather than statically importing API calls with PInvoke, Dynamic Invocation can be used to load the DLL at runtime and call the function using a pointer to its location in memory. You may call arbitrary unmanaged code from memory (while passing parameters), allowing you to bypass API hooking in a variety of ways and execute post-exploitation payloads reflectively. This also avoids detections that look for imports of suspicious API calls via the Import Address Table (IAT) in the .NET Assembly’s PE headers.
+
 ## Executing Unmanaged Code
 
 1. Want to bypass IAT Hooking for a suspicious function? Classic Way = API Signature + Delegate + Wrapper
