@@ -5,8 +5,8 @@ Dynamic Invocation for Covert Operations (Avoiding P/Invoke & API Hooks)
 
 1. Want to bypass IAT Hooking for a suspicious function? Classic Way = API Signature + Delegate + Wrapper
 2. Want to avoid Inline Hooking? Manually map a fresh copy of the module and use it without any userland hooks in place. Manual Mapping (Fresh ntdll.dll)
-3. Overload Mapping
-4. Want to bypass all userland hooking without leaving a PE suspiciously floating in memory? Go native and use a syscall. (GetSyscallStub)
+3. Want to bypass all userland hooking without leaving a PE suspiciously floating in memory? Go native and use a syscall. (GetSyscallStub)
+4. Overload Mapping
 
 ### Best Practices
 
