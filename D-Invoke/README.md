@@ -1,6 +1,5 @@
 # D/Invoke
-
-## Dynamic Invocation for Covert Operations (Avoiding P/Invoke & API Hooks)
+Dynamic Invocation for Covert Operations (Avoiding P/Invoke & API Hooks)
 
 ## Executing Unmanaged Code
 
