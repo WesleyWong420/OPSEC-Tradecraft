@@ -16,10 +16,26 @@ public delegate UInt32 NtOpenProcess(
 
 ## Executing Unmanaged Code
 
-1. Want to bypass IAT Hooking for a suspicious function? Classic D/Invoke = API Signature + Delegate + Wrapper
-2. Want to avoid Inline Hooking? Manually map a fresh copy of the module and use it without any userland hooks in place. Manual Mapping (Fresh ntdll.dll)
-3. Want to bypass all userland hooking without leaving a PE suspiciously floating in memory? Go native and use a syscall. (GetSyscallStub)
-4. Overload Mapping
+1. Want to bypass IAT Hooking for a suspicious function? Use Classic D/Invoke = API Signature + Delegate + Wrapper
+2. Want to avoid Inline Hooking? Manually map a fresh copy of the module and use it without any userland hooks in place. Use Manual Mapping.
+3. Want to hide in plain sight? Mask the payload with a legitimate, validly signed DLL on disk. Use OverloadMapping.
+4. Want to bypass all userland hooking without leaving a PE suspiciously floating in memory? Go native and use a Syscall.
+
+## Bypassing User-land Hooking
+`Manual Mapping` - This method loads a full copy of the target library file into memory. Any functions can be exported from it afterwards.
+```
+DInvoke.Data.PE.PE_MANUAL_MAP mappedDLL = new DInvoke.Data.PE.PE_MANUAL_MAP();
+mappedDLL = DInvoke.ManualMap.Map.MapModuleToMemory(@"C:\Windows\System32\ntdll.dll");
+```
+`OverloadMapping` - In addition to Manual Mapping, the payload stored in memory is backed by a legitimate file on disk. So the payload will appear to be executed from a legitimate, validly signed DLL on disk.
+```
+DInvoke.Data.PE.PE_MANUAL_MAP mappedDLL = DInvoke.ManualMap.Overload.OverloadModule(@"C:\Windows\System32\ntdll.dll");
+```
+`Syscalls` - Using this technique, not the whole target library is mapped to memory but only a specified function is extracted from it. This method therefore offers more stealth than Manual Mapping and is effective in bypassing native API hooking.
+```
+IntPtr pAllocateSysCall = DInvoke.DynamicInvoke.Generic.GetSyscallStub("NtAllocateVirtualMemory");
+NtAllocateVirtualMemory fSyscallAllocateMemory = (NtAllocateVirtualMemory)Marshal.GetDelegateForFunctionPointer(pAllocateSysCall, typeof(NtAllocateVirtualMemory));
+```
 
 ## Best Practices
 
