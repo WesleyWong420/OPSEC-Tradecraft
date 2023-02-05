@@ -50,3 +50,4 @@ NtAllocateVirtualMemory fSyscallAllocateMemory = (NtAllocateVirtualMemory)Marsha
 - [D/Invoke & GadgetToJScript](https://rastamouse.me/d-invoke-gadgettojscript/)
 - [Implementing Dynamic Invocation in C#](https://www.tevora.com/threat-blog/dynamic-invocation-in-csharp/)
 - [Avoiding Memory Scanners](https://www.blackhillsinfosec.com/avoiding-memory-scanners/)
+- [Alternative use cases for SystemFunction032](https://s3cur3th1ssh1t.github.io/SystemFunction032_Shellcode/)
