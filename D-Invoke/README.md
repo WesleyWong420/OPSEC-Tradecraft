@@ -45,6 +45,7 @@ NtAllocateVirtualMemory fSyscallAllocateMemory = (NtAllocateVirtualMemory)Marsha
 
 ## Sample Code
 - [Code injection via memory sections and ZwQueueApcThread](https://cocomelonc.github.io/tutorial/2022/01/17/malware-injection-14.html)
+- [Red Team C Code Repo](https://github.com/Mr-Un1k0d3r/RedTeamCCode)
 
 ## References
 - [Emulating Covert Operations - Dynamic Invocation (Avoiding PInvoke & API Hooks)](https://thewover.github.io/Dynamic-Invoke/)
