@@ -43,13 +43,6 @@ NtAllocateVirtualMemory fSyscallAllocateMemory = (NtAllocateVirtualMemory)Marsha
 2. When done with manually mapped modules, free them from memory to avoid memory scanners.
 3. Hide code in locations it would normally exist, such as file-backed sections.
 
-## Sample Code
-- [Code injection via memory sections and ZwQueueApcThread](https://cocomelonc.github.io/tutorial/2022/01/17/malware-injection-14.html)
-- [Red Team C Code Repo](https://github.com/Mr-Un1k0d3r/RedTeamCCode)
-- [Shellcode Injection Techniques](https://github.com/plackyhacker/Shellcode-Injection-Techniques)
-- [D/Invoke Rust](https://github.com/Kudaes/DInvoke_rs)
-- [Rust Dropper](https://github.com/Nariod/Tartocitron)
-
 ## References
 - [Emulating Covert Operations - Dynamic Invocation (Avoiding PInvoke & API Hooks)](https://thewover.github.io/Dynamic-Invoke/)
 - [Dynamic Invocation in .NET to bypass hooks](https://blog.nviso.eu/2020/11/20/dynamic-invocation-in-net-to-bypass-hooks/)
