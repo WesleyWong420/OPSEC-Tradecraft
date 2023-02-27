@@ -48,9 +48,6 @@ NtAllocateVirtualMemory fSyscallAllocateMemory = (NtAllocateVirtualMemory)Marsha
 - [DInvoke.net](https://dinvoke.net/)
 - [Undocumented NTInternals](http://undocumented.ntinternals.net/index.html)
 - [Syscall Table](https://j00ru.vexillium.org/syscalls/nt/64/)
-- []()
-- []()
-- []()
 
 ## References
 - [Emulating Covert Operations - Dynamic Invocation (Avoiding PInvoke & API Hooks)](https://thewover.github.io/Dynamic-Invoke/)
