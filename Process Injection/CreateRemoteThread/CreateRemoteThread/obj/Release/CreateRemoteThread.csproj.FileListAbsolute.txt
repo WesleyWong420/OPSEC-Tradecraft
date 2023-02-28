@@ -1,0 +1,8 @@
+C:\Users\Wesley\source\repos\CreateRemoteThread\CreateRemoteThread\bin\Release\CreateRemoteThread.exe.config
+C:\Users\Wesley\source\repos\CreateRemoteThread\CreateRemoteThread\bin\Release\CreateRemoteThread.exe
+C:\Users\Wesley\source\repos\CreateRemoteThread\CreateRemoteThread\bin\Release\CreateRemoteThread.pdb
+C:\Users\Wesley\source\repos\CreateRemoteThread\CreateRemoteThread\obj\Release\CreateRemoteThread.csproj.AssemblyReference.cache
+C:\Users\Wesley\source\repos\CreateRemoteThread\CreateRemoteThread\obj\Release\CreateRemoteThread.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wesley\source\repos\CreateRemoteThread\CreateRemoteThread\obj\Release\CreateRemoteThread.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\source\repos\CreateRemoteThread\CreateRemoteThread\obj\Release\CreateRemoteThread.exe
+C:\Users\Wesley\source\repos\CreateRemoteThread\CreateRemoteThread\obj\Release\CreateRemoteThread.pdb
