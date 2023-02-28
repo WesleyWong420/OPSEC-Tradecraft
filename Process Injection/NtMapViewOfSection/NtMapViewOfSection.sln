@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NtMapViewOfSection", "NtMapViewOfSection\NtMapViewOfSection.csproj", "{C1B09917-CC12-4F01-917A-EF09BA7FDA25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1B09917-CC12-4F01-917A-EF09BA7FDA25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B09917-CC12-4F01-917A-EF09BA7FDA25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B09917-CC12-4F01-917A-EF09BA7FDA25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B09917-CC12-4F01-917A-EF09BA7FDA25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46B9D0C3-B4BC-4083-AB3F-EBFBDCAB6330}
+	EndGlobalSection
+EndGlobal
