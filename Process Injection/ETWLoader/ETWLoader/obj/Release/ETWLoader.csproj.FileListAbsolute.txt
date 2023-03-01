@@ -1,0 +1,8 @@
+C:\Users\Wesley\source\repos\ETWLoader\ETWLoader\bin\Release\ETWLoader.exe.config
+C:\Users\Wesley\source\repos\ETWLoader\ETWLoader\bin\Release\ETWLoader.exe
+C:\Users\Wesley\source\repos\ETWLoader\ETWLoader\bin\Release\ETWLoader.pdb
+C:\Users\Wesley\source\repos\ETWLoader\ETWLoader\obj\Release\ETWLoader.csproj.AssemblyReference.cache
+C:\Users\Wesley\source\repos\ETWLoader\ETWLoader\obj\Release\ETWLoader.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wesley\source\repos\ETWLoader\ETWLoader\obj\Release\ETWLoader.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\source\repos\ETWLoader\ETWLoader\obj\Release\ETWLoader.exe
+C:\Users\Wesley\source\repos\ETWLoader\ETWLoader\obj\Release\ETWLoader.pdb
