@@ -163,6 +163,8 @@ C:\>KarenDumpedMi.exe
 ## Karen2Gadget
 Karen2Gadget is a boilerplate of KarenLdr designed to work compatibly with [GadgetToJScript](https://github.com/med0x2e/GadgetToJScript). It can be used to automate Macro weaponization for bypassing ASR rules that block Win32 APIs.
 
+Before using, modify the hardcoded URL for raw shellcode at Line 480 and PID for PPID Spoofing at Line 512.
+
 **NOTE:** Use `cscript.exe Karen2Gadget.vbs` to test the PoC.
 ```
 C:\>GadgetToJScript.exe -c Karen2Gadget\Program.cs -o Karen2Gadget -w vba -b -d System.dll
