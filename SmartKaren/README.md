@@ -4,7 +4,7 @@ A series of custom offensive toolset and utilities written in C# and Rust. This 
 ## KarenLdr
 KarenLdr is a compact Process Injector with various evasion techniques such as AMSI bypass and ETW patching built-in to it. To evade static signature, KarenLdr leverages low level NT*API calls (with the exception of AMSI & ETW patching) and a modified version of D/Invoke library. 
 
-At it's core, KarenLdr leverages a combination of `NtMapViewSection` and `NtQueueApcThread` to steer away from the classic process injection method of `VirtualAlloc`, `VirtualProtect` and `CreateThread` that are heavily signatured. To achieve this, the remote process is spawned under a suspended state by tampering the Process Creation Flag with `CREATE_SUSPENDED`.
+At it's core, KarenLdr leverages a combination of `NtMapViewSection` and `NtQueueApcThread` to steer away from the classic process injection method of `VirtualAlloc`, `VirtualProtect` and `CreateThread` that are heavily signatured. To achieve this, the remote process is spawned under a suspended state by tampering the Process Creation Flag with `CREATE_SUSPENDED`. This technique is useful in bypassing Attack Surface Reduction (ASR) rule that blocks the creation of threads.
 
 At runtime, a fresh copy of `ntdll.dll` is loaded into the process. The original ntdll.dll that was hooked by EDR is left untouched. All NT*API are then exported and called from the clean copy of ntdll.dll instead. This EDR evasion method is especially effective because the integrity of EDR hooks are not tampered with. Alternatively, direct syscalls can also be enabled by specifying the `--syscall` flag.
 
