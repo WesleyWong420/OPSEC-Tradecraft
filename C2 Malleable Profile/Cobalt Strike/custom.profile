@@ -57,13 +57,15 @@ https-certificate {
     set OU "Microsoft Corporation";
     set ST "CA";
     set validity "365";
+    set keystore "zoom.store";
+    set password "password";
 }
 
 
 code-signer {
-    #set keystore "keystore.store";
-    #set password "password";
-    #set alias "keystore";
+    set keystore "zoom.store";
+    set password "password";
+    set alias "keystore";
 }
 
 
