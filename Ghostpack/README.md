@@ -1,5 +1,5 @@
 # Ghostpack
-Collection of pre-compiled .NET binaries:
+A collection of pre-compiled .NET binaries:
 
 - [ADSearch](https://github.com/tomcarver16/ADSearch)
 - [Certify](https://github.com/GhostPack/Certify)
