@@ -1,0 +1,6 @@
+C:\Users\Wesley\source\repos\KarenLdr\KarenLdr\bin\Release\KarenLdr.exe.config
+C:\Users\Wesley\source\repos\KarenLdr\KarenLdr\bin\Release\KarenLdr.exe
+C:\Users\Wesley\source\repos\KarenLdr\KarenLdr\obj\Release\KarenLdr.csproj.AssemblyReference.cache
+C:\Users\Wesley\source\repos\KarenLdr\KarenLdr\obj\Release\KarenLdr.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wesley\source\repos\KarenLdr\KarenLdr\obj\Release\KarenLdr.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\source\repos\KarenLdr\KarenLdr\obj\Release\KarenLdr.exe

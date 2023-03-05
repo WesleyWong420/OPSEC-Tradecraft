@@ -1,0 +1,6 @@
+C:\Users\Wesley\source\repos\KarenDumpedMi\KarenDumpedMi\bin\Release\KarenDumpedMi.exe.config
+C:\Users\Wesley\source\repos\KarenDumpedMi\KarenDumpedMi\bin\Release\KarenDumpedMi.exe
+C:\Users\Wesley\source\repos\KarenDumpedMi\KarenDumpedMi\obj\Release\KarenDumpedMi.csproj.AssemblyReference.cache
+C:\Users\Wesley\source\repos\KarenDumpedMi\KarenDumpedMi\obj\Release\KarenDumpedMi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wesley\source\repos\KarenDumpedMi\KarenDumpedMi\obj\Release\KarenDumpedMi.csproj.CoreCompileInputs.cache
+C:\Users\Wesley\source\repos\KarenDumpedMi\KarenDumpedMi\obj\Release\KarenDumpedMi.exe
