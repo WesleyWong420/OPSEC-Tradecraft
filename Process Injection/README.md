@@ -11,6 +11,9 @@ Process Injection Techniques & Shellcode Loaders
 
 ## Donut
 - [Donut - Injecting .NET Assemblies as Shellcode](https://thewover.github.io/Introducing-Donut/)
+- [Donut v0.9.1 "Apple Fritter" - Dual-Mode Shellcode, AMSI, and More](https://thewover.github.io/Apple-Fritter/)
+- [Donut v0.9.2 "Bear Claw" - JScript/VBScript/XSL/PE Shellcode and Python Bindings](https://thewover.github.io/Bear-Claw/)
+- [Donut v1.0 "Cruller" - ETW Bypasses, Module Overloading, and Much More](https://thewover.github.io/Cruller/)
 
 ## Sample Code
 - [Code injection via memory sections and ZwQueueApcThread](https://cocomelonc.github.io/tutorial/2022/01/17/malware-injection-14.html)
