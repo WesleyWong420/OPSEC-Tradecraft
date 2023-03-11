@@ -7,5 +7,7 @@
 - [Microsoft.Workflow.Compiler.exe Applocker bypass Part 1 Powershell](https://bitsekure.com/2021/03/02/microsoft-workflow-compiler-exe-applocker-bypass-part-1-powershell/)
 
 ## Bypass
-- Msbuild.exe: `C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Msbuild.exe msbuild.xml`
-- Microsoft.Workflow.Compiler.exe: `C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Workflow.Compiler.exe test.xml test.txt`
+- Msbuild.exe
+  - `C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Msbuild.exe msbuild.xml`
+- Microsoft.Workflow.Compiler.exe
+  - `C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Workflow.Compiler.exe test.xml test.txt`
