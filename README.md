@@ -1,5 +1,5 @@
 # OPSEC-Tradecraft
-OPSEC Tradecraft and TTPs for Red Team Operations A.K.A my bookmark for red teaming resources
+OPSEC Tradecraft and TTPs for Red Team Operations - A.K.A my bookmark for red teaming resources.
 
 ## Tradesmith Blogpost
 - [Rastamouse.me](https://rastamouse.me/)
