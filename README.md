@@ -3,7 +3,7 @@ OPSEC Tradecraft and TTPs for Red Team Operations - A.K.A my bookmark for red te
 
 ## Tradesmith Blogpost
 - [RastaMouse.me](https://rastamouse.me/)
-- [Redteamer.tips](https://redteamer.tips/)
+- [RedTeamer.tips](https://redteamer.tips/)
 - [VXUnderground - Windows Papers](https://www.vx-underground.org/windows.html)
 - [C5pider - Getting Started in MalDev](https://twitter.com/C5pider/status/1555256779553906694)
 
