@@ -20,3 +20,8 @@ Process Injection Techniques & Shellcode Loaders
 - [Red Team C Code Repo](https://github.com/Mr-Un1k0d3r/RedTeamCCode)
 - [Shellcode Injection Techniques](https://github.com/plackyhacker/Shellcode-Injection-Techniques)
 - [Rust D/Invoke Dropper](https://github.com/Nariod/Tartocitron)
+
+## Vidoes
+- [Defeating EDRs using Dynamic invocation by Jean-Francois Maes](https://www.youtube.com/watch?v=LXfhyTpQ7TM&list=WL&index=5&t=577s)
+- [Fun with Shellcode (Loaders)](https://www.youtube.com/watch?v=HNGuM5LpOEw&list=WL&index=4&t=147s)
+- [DC29 - Adversary village - Workshop: From zero to hero: creating a reflective loader in C#](https://www.youtube.com/watch?v=E6LOQQiNjj0&list=WL&index=2&t=2581s)
