@@ -5,7 +5,7 @@ OPSEC Tradecraft and TTPs for Red Team Operations - A.K.A my bookmark for red te
 - [RastaMouse.me](https://rastamouse.me/)
 - [Redteamer.tips](https://redteamer.tips/)
 - [VXUnderground - Windows Papers](https://www.vx-underground.org/windows.html)
-- [Getting Started in MalDev](https://twitter.com/C5pider/status/1555256779553906694)
+- [C5pider - Getting Started in MalDev](https://twitter.com/C5pider/status/1555256779553906694)
 
 ## Beacon Object Files
 - [BofAllTheThings](https://github.com/N7WEra/BofAllTheThings)
