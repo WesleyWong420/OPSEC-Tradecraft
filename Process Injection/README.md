@@ -4,6 +4,7 @@ Process Injection Techniques & Shellcode Loaders
 ## OPSEC
 - [Exploring Process Injection OPSEC – Part 1](https://rastamouse.me/exploring-process-injection-opsec-part-1/)
 - [Exploring Process Injection OPSEC – Part 2](https://rastamouse.me/exploring-process-injection-opsec-part-2/)
+- [Meterpreter vs Modern EDR(s)](https://redops.at/en/blog/meterpreter-vs-modern-edrs-in-2023)
 
 ## Evasion
 - [Avoiding Memory Scanners](https://www.blackhillsinfosec.com/avoiding-memory-scanners/)
