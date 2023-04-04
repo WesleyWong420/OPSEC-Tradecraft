@@ -5,7 +5,7 @@ OPSEC Tradecraft and TTPs for Red Team Operations - A.K.A my bookmark for red te
 - [RedELK – Part 1: Why we need it](https://outflank.nl/blog/2019/02/14/introducing-redelk-part-1-why-we-need-it/)
 - [RedELK Part 2 – Getting you up and running](https://outflank.nl/blog/2020/02/28/redelk-part-2-getting-you-up-and-running/)
 - [RedELK Part 3 – Achieving operational oversight](https://outflank.nl/blog/2020/04/07/redelk-part-3-achieving-operational-oversight/)
-- [Hunting C2](https://michaelkoczwara.medium.com/hunting-c2-with-shodan-223ca250d06f)
+- [Hunting C2 (Shodan)](https://michaelkoczwara.medium.com/hunting-c2-with-shodan-223ca250d06f)
 
 ## Tradesmith Blogpost
 - [RastaMouse.me](https://rastamouse.me/)
