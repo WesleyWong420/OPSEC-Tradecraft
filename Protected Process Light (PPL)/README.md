@@ -2,7 +2,7 @@
 Anti-Malware Self-Defense Bypass Techniques
 
 ## Windows Defender
-| Component    | Descripton         | Security Context | Protection Level  |
+| Component    | Description        | Security Context | Protection Level  |
 |--------------|--------------------|------------------|-------------------|
 | MsMpEng.exe  | Main Engine        | SYSTEM           | Antimalware Light |
 | NisSrv.exe   | Network Inspection | Local Service    | Antimalware Light |
