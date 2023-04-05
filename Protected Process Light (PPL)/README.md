@@ -1,4 +1,4 @@
-# Protected Process Light
+# Protected Process Light (PPL)
 Anti-Malware Self-Defense Bypass Techniques
 
 ## References
