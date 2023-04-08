@@ -1,8 +1,34 @@
 # Process Injection
 Process Injection Techniques & Shellcode Loaders
 
-## Techniques
-- [Ten process injection techniques: A technical survey of common and trending process injection techniques](https://www.elastic.co/blog/ten-process-injection-techniques-technical-survey-common-and-trending-process)
+## Process Injection
+> [Ten process injection techniques: A technical survey of common and trending process injection techniques](https://www.elastic.co/blog/ten-process-injection-techniques-technical-survey-common-and-trending-process)
+- Classic Shellcode Injection
+- Classic PE Injection
+- Classic DLL Injection
+- Reflective DLL Injection
+- Shellcode reflective DLL injection (sRDI)
+- Thread Hijacking
+- Process Hollowing
+- Asychronous Procedure Call (APC) Injection
+- Inter-Process Mapped View
+- Early Bird
+- Atom Bombing
+- Hell's Gate
+
+## Shellcode Techniques
+- OpenProcess
+- CreateProcess
+- CreateProcessWithPipe
+- CreateThread
+- CreateThreadNative
+- CreateRemoteThread
+- CreateRemoteThreadNative
+- CreateFiber
+- EtwpCreateEtwThreadEx
+- RtlCreateUserThread
+- UuidFromStringA
+- NtQueueApcThread
 
 ## OPSEC
 - [Exploring Process Injection OPSEC – Part 1](https://rastamouse.me/exploring-process-injection-opsec-part-1/)
