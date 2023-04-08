@@ -7,7 +7,7 @@ Process Injection Techniques & Shellcode Loaders
 - Classic PE Injection
 - Classic DLL Injection
 - Reflective DLL Injection
-- Shellcode reflective DLL injection (sRDI)
+- Shellcode Reflective DLL injection (sRDI)
 - Thread Hijacking
 - Process Hollowing
 - Asychronous Procedure Call (APC) Injection
