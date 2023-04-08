@@ -30,6 +30,14 @@ Process Injection Techniques & Shellcode Loaders
 - UuidFromStringA
 - NtQueueApcThread
 
+## PE Techniques
+- Process Ghosting
+- Process Herpaderping
+- Process Doppelganging
+- Process Reimaging
+- Module Stomping
+- Function Stomping
+
 ## OPSEC
 - [Exploring Process Injection OPSEC – Part 1](https://rastamouse.me/exploring-process-injection-opsec-part-1/)
 - [Exploring Process Injection OPSEC – Part 2](https://rastamouse.me/exploring-process-injection-opsec-part-2/)
