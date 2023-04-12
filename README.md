@@ -27,4 +27,5 @@ OPSEC Tradecraft and TTPs for Red Team Operations - A.K.A my bookmark for red te
 - [Revisiting the User-Defined Reflective Loader Part 1: Simplifying Development](https://www.cobaltstrike.com/blog/revisiting-the-udrl-part-1-simplifying-development/)
 
 ## Red Team Report
-- [CISA Red Team](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-059a)
+- [CISA Red Team Report](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-059a)
+- [Adversary Emulation Exercises](https://git.culbertreport.com/posts/Adversary-Emulation-Exercise/)
