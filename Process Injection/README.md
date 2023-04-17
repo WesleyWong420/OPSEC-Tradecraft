@@ -27,8 +27,8 @@ Process Injection Techniques & Shellcode Loaders
 - CreateFiber
 - EtwpCreateEtwThreadEx
 - RtlCreateUserThread
-- UuidFromStringA
 - NtQueueApcThread
+- UuidFromStringA & EnumSystemLocalA
 
 ## PE Techniques
 - Process Ghosting
