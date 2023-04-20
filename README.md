@@ -32,3 +32,4 @@ OPSEC Tradecraft and TTPs for Red Team Operations - A.K.A my bookmark for red te
 
 ## Red Team Story
 - [Red Teaming at WRCCDC 2023](https://bri5ee.sh/red%20team/2023/04/10/red-teaming-at-wrccdc-2023.html)
+- [What I’ve Learned in Over a Decade of “Red Teaming”](https://medium.com/@dmchell/what-ive-learned-in-over-a-decade-of-red-teaming-5c0b685c67a2)
