@@ -28,7 +28,6 @@ OPSEC Tradecraft and TTPs for Red Team Operations - A.K.A my bookmark for red te
 
 ## Red Team Report
 - [CISA Red Team Report](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-059a)
-- [Adversary Emulation Exercises](https://git.culbertreport.com/posts/Adversary-Emulation-Exercise/)
 
 ## Red Team Story
 - [Red Teaming at WRCCDC 2023](https://bri5ee.sh/red%20team/2023/04/10/red-teaming-at-wrccdc-2023.html)
