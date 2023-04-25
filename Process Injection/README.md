@@ -61,6 +61,7 @@ Process Injection Techniques & Shellcode Loaders
 - [Red Team C Code Repo](https://github.com/Mr-Un1k0d3r/RedTeamCCode)
 - [Shellcode Injection Techniques](https://github.com/plackyhacker/Shellcode-Injection-Techniques)
 - [Rust D/Invoke Dropper](https://github.com/Nariod/Tartocitron)
+- [Advanced Process Injection Workshop by CyberWarFare Labs](https://github.com/RedTeamOperations/Advanced-Process-Injection-Workshop)
 
 ## Vidoes
 - [Defeating EDRs using Dynamic invocation by Jean-Francois Maes](https://youtu.be/LXfhyTpQ7TM)
