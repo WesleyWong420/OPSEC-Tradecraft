@@ -1,7 +1,7 @@
 # SmartKaren
 A series of custom offensive toolset and utilities written in C# and Rust. This project is developed to explore AV evasion techniques for aiding red teaming operations. 
 
-![](./resources/SmartKaren.png =250x250)
+![](./resources/SmartKaren.png)
 
 ## KarenLdr
 KarenLdr is a compact Process Injector with various evasion techniques such as AMSI bypass and ETW patching built-in to it. To evade static signature, KarenLdr leverages low level NT*API calls (with the exception of AMSI & ETW patching) and a modified version of D/Invoke library. 
