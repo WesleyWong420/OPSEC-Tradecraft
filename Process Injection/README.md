@@ -10,6 +10,13 @@ Process Injection Techniques & Shellcode Loaders
 - Shellcode Reflective DLL injection (sRDI)
 - Thread Hijacking
 - Process Hollowing
+- Transacted Hollowing
+- Process Ghosting
+- Process Herpaderping
+- Process Doppelganging
+- Process Reimaging
+- Module Stomping
+- Function Stomping
 - Asychronous Procedure Call (APC) Injection
 - Inter-Process Mapped View
 - Early Bird
@@ -29,14 +36,6 @@ Process Injection Techniques & Shellcode Loaders
 - RtlCreateUserThread
 - NtQueueApcThread
 - UuidFromStringA & EnumSystemLocalA
-
-## PE Techniques
-- Process Ghosting
-- Process Herpaderping
-- Process Doppelganging
-- Process Reimaging
-- Module Stomping
-- Function Stomping
 
 ## OPSEC
 - [Exploring Process Injection OPSEC – Part 1](https://rastamouse.me/exploring-process-injection-opsec-part-1/)
