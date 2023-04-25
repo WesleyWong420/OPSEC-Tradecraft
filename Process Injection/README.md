@@ -63,7 +63,7 @@ Process Injection Techniques & Shellcode Loaders
 - [Rust D/Invoke Dropper](https://github.com/Nariod/Tartocitron)
 
 ## Vidoes
-- [Defeating EDRs using Dynamic invocation by Jean-Francois Maes](https://www.youtube.com/watch?v=LXfhyTpQ7TM&list=WL&index=5&t=577s)
-- [Fun with Shellcode (Loaders)](https://www.youtube.com/watch?v=HNGuM5LpOEw&list=WL&index=4&t=147s)
-- [DC29 - Adversary village - Workshop: From zero to hero: creating a reflective loader in C#](https://www.youtube.com/watch?v=E6LOQQiNjj0&list=WL&index=2&t=2581s)
-- [Roll for Stealth Intro to AV EDR Evasion | Mike Saunders | WWHF Deadwood 2022](https://www.youtube.com/watch?v=TvPE5EAObHw&list=WL&index=6&t=800s)
+- [Defeating EDRs using Dynamic invocation by Jean-Francois Maes](https://youtu.be/LXfhyTpQ7TM)
+- [Fun with Shellcode (Loaders)](https://youtu.be/HNGuM5LpOEw)
+- [DC29 - Adversary village - Workshop: From zero to hero: creating a reflective loader in C#](https://youtu.be/E6LOQQiNjj0)
+- [Roll for Stealth Intro to AV EDR Evasion | Mike Saunders | WWHF Deadwood 2022](https://youtu.be/TvPE5EAObHw)
