@@ -35,5 +35,6 @@ OPSEC Tradecraft and TTPs for Red Team Operations - A.K.A my bookmark for red te
 
 ## Certifications
 - [SEC565: Red Team Operations and Adversary Emulation](https://www.sans.org/cyber-security-courses/red-team-operations-adversary-emulation/)
+- [SEC670: Red Teaming Tools - Developing Windows Implants, Shellcode, Command and Control](https://www.sans.org/cyber-security-courses/red-team-operations-developing-custom-tools-windows/)
 - [CREST Certified Simulated Attack Specialist (CCSAS)](https://www.crest-approved.org/certification-careers/crest-certifications/crest-certified-simulated-attack-specialist/)
 - [CREST Certified Simulated Attack Manager (CCSAM)](https://www.crest-approved.org/certification-careers/crest-certifications/crest-certified-simulated-attack-manager/)
