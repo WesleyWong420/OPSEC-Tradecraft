@@ -5,7 +5,7 @@ Platform Invocation for Unmanaged WinAPI
 .NET provides a mechanism called Platform Invoke (commonly known as P/Invoke) that allows .NET applications to access data and APIs in unmanaged libraries (DLLs). By using P/Invoke, a C# developer may easily make calls to the standard Windows APIs. Offensive tool developers have taken advantage of this to craft .NET Assemblies (EXEs/DLLs) that leverage the power of both the managed and unmanaged Windows APIs to perform post-exploitation tradecraft.
 
 ## Usage
-```
+```csharp
 [DllImport("kernel32.dll")]
 public static extern IntPtr OpenProcess(
         ProcessAccessFlags dwDesiredAccess,
@@ -15,7 +15,7 @@ public static extern IntPtr OpenProcess(
 ```
 
 ## Hide Entry Point
-```
+```csharp
 [DllImport("kernel32.dll", EntryPoint = "OpenProcess", SetLastError = true)]
 public static extern IntPtr fnOpenProcess(
         ProcessAccessFlags dwDesiredAccess,
