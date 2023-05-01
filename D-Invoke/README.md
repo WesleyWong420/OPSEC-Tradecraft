@@ -23,16 +23,16 @@ public delegate UInt32 NtOpenProcess(
 
 ## Bypassing User-land Hooking
 `Manual Mapping` - This method loads a full copy of the target library file into memory. Any functions can be exported from it afterwards.
-```
+```csharp
 DInvoke.Data.PE.PE_MANUAL_MAP mappedDLL = new DInvoke.Data.PE.PE_MANUAL_MAP();
 mappedDLL = DInvoke.ManualMap.Map.MapModuleToMemory(@"C:\Windows\System32\ntdll.dll");
 ```
 `OverloadMapping` - In addition to Manual Mapping, the payload stored in memory is backed by a legitimate file on disk. So the payload will appear to be executed from a legitimate, validly signed DLL on disk.
-```
+```csharp
 DInvoke.Data.PE.PE_MANUAL_MAP mappedDLL = DInvoke.ManualMap.Overload.OverloadModule(@"C:\Windows\System32\ntdll.dll");
 ```
 `Syscalls` - Using this technique, not the whole target library is mapped to memory but only a specified function is extracted from it. This method therefore offers more stealth than Manual Mapping and is effective in bypassing native API hooking.
-```
+```csharp
 IntPtr pAllocateSysCall = DInvoke.DynamicInvoke.Generic.GetSyscallStub("NtAllocateVirtualMemory");
 NtAllocateVirtualMemory fSyscallAllocateMemory = (NtAllocateVirtualMemory)Marshal.GetDelegateForFunctionPointer(pAllocateSysCall, typeof(NtAllocateVirtualMemory));
 ```
