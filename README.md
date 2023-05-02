@@ -28,13 +28,6 @@ OPSEC Tradecraft and TTPs for Red Team Operations - A.K.A my bookmark for red te
 - [Defining the Cobalt Strike Reflective Loader](https://securityintelligence.com/posts/defining-cobalt-strike-reflective-loader/)
 - [Revisiting the User-Defined Reflective Loader Part 1: Simplifying Development](https://www.cobaltstrike.com/blog/revisiting-the-udrl-part-1-simplifying-development/)
 
-## Videos
-- [11. Evasion in Depth - Techniques Across the Kill-Chain by Mariusz Banach](https://youtu.be/IbA7Ung39o4)
-
-## Miscellaneous
-- [CISA Red Team Report](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-059a)
-- [What I’ve Learned in Over a Decade of “Red Teaming”](https://medium.com/@dmchell/what-ive-learned-in-over-a-decade-of-red-teaming-5c0b685c67a2)
-
 ## Certifications
 - [SEC565: Red Team Operations and Adversary Emulation](https://www.sans.org/cyber-security-courses/red-team-operations-adversary-emulation/)
 - [SEC670: Red Teaming Tools - Developing Windows Implants, Shellcode, Command and Control](https://www.sans.org/cyber-security-courses/red-team-operations-developing-custom-tools-windows/)
