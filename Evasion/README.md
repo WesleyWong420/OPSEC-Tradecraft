@@ -10,3 +10,6 @@
 - [Avoiding Memory Scanners](https://www.blackhillsinfosec.com/avoiding-memory-scanners/)
 - [Detecting and Advancing In-Memory .NET Tradecraft](https://www.mdsec.co.uk/2020/06/detecting-and-advancing-in-memory-net-tradecraft/)
 - [Reducing The Indicators of Compromise (IOCs) on Beacon and Team Server](https://perspectiverisk.com/reducing-the-indicators-of-compromise-iocs-on-beacon-and-team-server/)
+
+## Videos
+- [Evasion in Depth - Techniques Across the Kill-Chain by Mariusz Banach](https://youtu.be/IbA7Ung39o4)
