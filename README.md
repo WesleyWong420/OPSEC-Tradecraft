@@ -7,6 +7,8 @@ OPSEC Tradecraft and TTPs for Red Team Operations - A.K.A my bookmark for red te
 - [Red Team OffSecOps](https://www.praetorian.com/blog/praetorians-approach-to-red-team-infrastructure/)
 - [Red Team Infrastructure Automation with Terraform & Ansible](https://blog.joeminicucci.com/2021/redira#module-abstractions)
 - [Red Teaming: Easy Phishing Infrastructure Setup](https://payatu.com/blog/phishing-infrastructure-setup/)
+- [Testing your RedTeam Infrastructure](https://www.mdsec.co.uk/2020/02/testing-your-redteam-infrastructure/)
+- [Offensive Development with GitHub Actions](https://www.mdsec.co.uk/2020/03/offensive-development-with-github-actions/)
 - [RedELK Part 1: Why we need it](https://outflank.nl/blog/2019/02/14/introducing-redelk-part-1-why-we-need-it/)
 - [RedELK Part 2: Getting you up and running](https://outflank.nl/blog/2020/02/28/redelk-part-2-getting-you-up-and-running/)
 - [RedELK Part 3: Achieving operational oversight](https://outflank.nl/blog/2020/04/07/redelk-part-3-achieving-operational-oversight/)
