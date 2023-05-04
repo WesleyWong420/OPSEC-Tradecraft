@@ -27,6 +27,10 @@ OPSEC Tradecraft and TTPs for Red Team Operations - A.K.A my bookmark for red te
 
 ## Beacon Object Files
 - [BofAllTheThings](https://github.com/N7WEra/BofAllTheThings)
+- [MemFiles](https://github.com/Octoberfest7/MemFiles)
+- [Inline-Execute-PE](https://github.com/Octoberfest7/Inline-Execute-PE)
+- [InlineExecute-Assembly](https://github.com/anthemtotheego/InlineExecute-Assembly)
+- [Inject-Assembly](https://github.com/kyleavery/inject-assembly)
 
 ## User Defined Reflective Loader
 - [Cobalt Strike - User Defined Reflective Loader Studies](https://mav3rick33.gitbook.io/the-lab/offensive-development/cobalt-strike-user-defined-reflective-loader-studies)
