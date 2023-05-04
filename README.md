@@ -22,8 +22,8 @@ OPSEC Tradecraft and TTPs for Red Team Operations - A.K.A my bookmark for red te
 - [Outflank](https://outflank.nl/blog/)
 - [Adam Chester](https://blog.xpnsec.com/)
 - [Matt Hand (matterpreter)](https://medium.com/@matterpreter)
-- [VXUnderground - Windows Papers](https://www.vx-underground.org/windows.html)
 - [C5pider - Getting Started in MalDev](https://twitter.com/C5pider/status/1555256779553906694)
+- [VXUnderground - Windows Papers](https://www.vx-underground.org/windows.html)
 
 ## Beacon Object Files
 - [BofAllTheThings](https://github.com/N7WEra/BofAllTheThings)
