@@ -21,6 +21,7 @@ OPSEC Tradecraft and TTPs for Red Team Operations - A.K.A my bookmark for red te
 - [MDSec](https://www.mdsec.co.uk/knowledge-centre/insights/)
 - [TrustedSec](https://www.trustedsec.com/blog/)
 - [Outflank](https://outflank.nl/blog/)
+- [Nettitude](https://labs.nettitude.com/)
 - [Adam Chester](https://blog.xpnsec.com/)
 - [Matt Hand (matterpreter)](https://medium.com/@matterpreter)
 - [C5pider - Getting Started in MalDev](https://twitter.com/C5pider/status/1555256779553906694)
