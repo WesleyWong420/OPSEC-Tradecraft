@@ -19,6 +19,7 @@ OPSEC Tradecraft and TTPs for Red Team Operations - A.K.A my bookmark for red te
 - [RedTeamer.tips](https://redteamer.tips/)
 - [SpecterOps](https://posts.specterops.io/)
 - [MDSec](https://www.mdsec.co.uk/knowledge-centre/insights/)
+- [TrustedSec](https://www.trustedsec.com/blog/)
 - [Outflank](https://outflank.nl/blog/)
 - [Adam Chester](https://blog.xpnsec.com/)
 - [Matt Hand (matterpreter)](https://medium.com/@matterpreter)
