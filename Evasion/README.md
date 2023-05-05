@@ -16,5 +16,8 @@
 ## Antimalware Scan Interface (AMSI)
 - [Memory Patching AMSI Bypass ](https://rastamouse.me/memory-patching-amsi-bypass/)
 
+## Event Tracing for Windows (ETW)
+- [ETWHash – “He who listens, shall receive”](https://labs.nettitude.com/blog/etwhash-he-who-listens-shall-receive/)
+
 ## Videos
 - [Evasion in Depth - Techniques Across the Kill-Chain by Mariusz Banach](https://youtu.be/IbA7Ung39o4)
