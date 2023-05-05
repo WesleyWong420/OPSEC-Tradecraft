@@ -22,6 +22,7 @@ Process Injection Techniques & Shellcode Loaders
 - Early Bird
 - Atom Bombing
 - Hell's Gate
+- Halo's Gate
 
 ## Shellcode Techniques
 - OpenProcess
