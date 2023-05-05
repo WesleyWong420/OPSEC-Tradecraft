@@ -3,6 +3,7 @@
 ## EDR Evasion
 - [A story about tampering EDRs](https://redops.at/en/blog/a-story-about-tampering-edrs)
 - [Meterpreter vs Modern EDR(s)](https://redops.at/en/blog/meterpreter-vs-modern-edrs-in-2023)
+- [A tale of EDR bypass methods](https://s3cur3th1ssh1t.github.io/A-tale-of-EDR-bypass-methods/)
 - [Direct Syscalls: A journey from high to low](https://redops.at/en/blog/direct-syscalls-a-journey-from-high-to-low)
 - [Bypassing User-Mode Hooks and Direct Invocation of System Calls for Red Teams](https://www.mdsec.co.uk/2020/12/bypassing-user-mode-hooks-and-direct-invocation-of-system-calls-for-red-teams/)
 - [Red Team Tactics: Combining Direct System Calls and sRDI to bypass AV/EDR](https://outflank.nl/blog/2019/06/19/red-team-tactics-combining-direct-system-calls-and-srdi-to-bypass-av-edr/)
