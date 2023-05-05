@@ -13,5 +13,8 @@
 - [Reducing The Indicators of Compromise (IOCs) on Beacon and Team Server](https://perspectiverisk.com/reducing-the-indicators-of-compromise-iocs-on-beacon-and-team-server/)
 - [SleepyCrypt: Encrypting a running PE image while it sleeps](https://www.solomonsklash.io/SleepyCrypt-shellcode-to-encrypt-a-running-image.html)
 
+## Antimalware Scan Interface (AMSI)
+- [Memory Patching AMSI Bypass ](https://rastamouse.me/memory-patching-amsi-bypass/)
+
 ## Videos
 - [Evasion in Depth - Techniques Across the Kill-Chain by Mariusz Banach](https://youtu.be/IbA7Ung39o4)
