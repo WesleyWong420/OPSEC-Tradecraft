@@ -21,3 +21,4 @@
 
 ## Videos
 - [Evasion in Depth - Techniques Across the Kill-Chain by Mariusz Banach](https://youtu.be/IbA7Ung39o4)
+- [Intro to Syscalls for Windows Malware](https://youtu.be/elA_eiqWefw)
