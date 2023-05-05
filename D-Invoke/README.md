@@ -53,4 +53,5 @@ NtAllocateVirtualMemory fSyscallAllocateMemory = (NtAllocateVirtualMemory)Marsha
 - [Emulating Covert Operations - Dynamic Invocation (Avoiding PInvoke & API Hooks)](https://thewover.github.io/Dynamic-Invoke/)
 - [Dynamic Invocation in .NET to bypass hooks](https://blog.nviso.eu/2020/11/20/dynamic-invocation-in-net-to-bypass-hooks/)
 - [Implementing Dynamic Invocation in C#](https://www.tevora.com/threat-blog/dynamic-invocation-in-csharp/)
+- [Syscalls with D/Invoke](https://offensivedefence.co.uk/posts/dinvoke-syscalls/)
 - [D/Invoke & GadgetToJScript](https://rastamouse.me/d-invoke-gadgettojscript/)
