@@ -30,6 +30,8 @@ OPSEC Tradecraft and TTPs for Red Team Operations - A.K.A my bookmark for red te
 
 ## Beacon Object Files
 - [BofAllTheThings](https://github.com/N7WEra/BofAllTheThings)
+- [Outflank - C2 Tool Collection](https://github.com/outflanknl/C2-Tool-Collection)
+- [TrustedSec - Remote Operations BOF](https://github.com/trustedsec/CS-Remote-OPs-BOF)
 - [MemFiles](https://github.com/Octoberfest7/MemFiles)
 - [FindObjects](https://github.com/outflanknl/C2-Tool-Collection/tree/main/BOF/FindObjects)
 - [Inline-Execute-PE](https://github.com/Octoberfest7/Inline-Execute-PE)
