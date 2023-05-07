@@ -1,5 +1,8 @@
 # Evasion
 
+## AV Evasion
+- [Disabling AV With Process Suspension](https://www.trustedsec.com/blog/disabling-av-with-process-suspension/)
+
 ## EDR Evasion
 - [A story about tampering EDRs](https://redops.at/en/blog/a-story-about-tampering-edrs)
 - [Meterpreter vs Modern EDR(s)](https://redops.at/en/blog/meterpreter-vs-modern-edrs-in-2023)
