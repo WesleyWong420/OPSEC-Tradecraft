@@ -18,6 +18,7 @@
 
 ## Antimalware Scan Interface (AMSI)
 - [Memory Patching AMSI Bypass ](https://rastamouse.me/memory-patching-amsi-bypass/)
+- [[Malware] Bypass AMSI in local process hooking NtCreateSection](https://waawaa.github.io/es/amsi_bypass-hooking-NtCreateSection/)
 
 ## Event Tracing for Windows (ETW)
 - [ETWHash – “He who listens, shall receive”](https://labs.nettitude.com/blog/etwhash-he-who-listens-shall-receive/)
