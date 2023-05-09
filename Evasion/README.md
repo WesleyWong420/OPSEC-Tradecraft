@@ -23,17 +23,6 @@
 ## Event Tracing for Windows (ETW)
 - [ETWHash – “He who listens, shall receive”](https://labs.nettitude.com/blog/etwhash-he-who-listens-shall-receive/)
 
-## Entropy Detection
-- Adding Non-Random Data
-  - Dictionary Words
-  - 0x00 Padding
-- Use Encoding & Avoid Encryption
-  - UUID Encoding
-  - Emojis
-- Avoid Embedding Payload
-  - Retrieve From File
-  - Fetch Remotely 
-
 ## Videos
 - [Evasion in Depth - Techniques Across the Kill-Chain by Mariusz Banach](https://youtu.be/IbA7Ung39o4)
 - [Intro to Syscalls for Windows Malware](https://youtu.be/elA_eiqWefw)
