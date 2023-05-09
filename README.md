@@ -3,6 +3,7 @@ OPSEC Tradecraft and TTPs for Red Team Operations - A.K.A my bookmark for red te
 
 ## Red Team Infrastructure
 - [Red Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki)
+- [Building a Red Team Infrastructure in 2023](https://www.securesystems.de/blog/building-a-red-team-infrastructure-in-2023/)
 - [Safe Red Team Infrastructure](https://malcomvetter.medium.com/safe-red-team-infrastructure-c5d6a0f13fac)
 - [Red Team OffSecOps](https://www.praetorian.com/blog/praetorians-approach-to-red-team-infrastructure/)
 - [Red Team Infrastructure Automation with Terraform & Ansible](https://blog.joeminicucci.com/2021/redira#module-abstractions)
