@@ -65,3 +65,4 @@ Process Injection Techniques & Shellcode Loaders
 - [Fun with Shellcode (Loaders)](https://youtu.be/HNGuM5LpOEw)
 - [DC29 - Adversary village - Workshop: From zero to hero: creating a reflective loader in C#](https://youtu.be/E6LOQQiNjj0)
 - [Roll for Stealth Intro to AV EDR Evasion | Mike Saunders | WWHF Deadwood 2022](https://youtu.be/TvPE5EAObHw)
+- [Needles Without The Thread: Threadless Process Injection - Ceri Coburn](https://youtu.be/z8GIjk0rfbI)
