@@ -10,6 +10,7 @@ A collection of pre-compiled .NET binaries:
 - [SharpChromium](https://github.com/djhohnstein/SharpChromium)
 - [SharpDPAPI](https://github.com/GhostPack/SharpDPAPI)
 - [SharpGPOAbuse](https://github.com/FSecureLABS/SharpGPOAbuse)
+- [SharpHound](https://github.com/BloodHoundAD/SharpHound)
 - [SharpSpoolTrigger](https://github.com/cube0x0/SharpSystemTriggers)
 - [SharpUp](https://github.com/GhostPack/SharpUp)
 - [SharpView](https://github.com/tevora-threat/SharpView)
