@@ -11,6 +11,7 @@
 - [Red Team Tactics: Combining Direct System Calls and sRDI to bypass AV/EDR](https://outflank.nl/blog/2019/06/19/red-team-tactics-combining-direct-system-calls-and-srdi-to-bypass-av-edr/)
 - [Blindside: A New Technique for EDR Evasion with Hardware Breakpoints](https://cymulate.com/blog/blindside-a-new-technique-for-edr-evasion-with-hardware-breakpoints)
 - [Spoofing Call Stacks To Confuse EDRs](https://labs.withsecure.com/publications/spoofing-call-stacks-to-confuse-edrs)
+- [Cat & Mouse - or Chess?](https://s3cur3th1ssh1t.github.io/Cat_Mouse_or_Chess/)
 
 ## Memory Evasion
 - [Avoiding Memory Scanners](https://www.blackhillsinfosec.com/avoiding-memory-scanners/)
