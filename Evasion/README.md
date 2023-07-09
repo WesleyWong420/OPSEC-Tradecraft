@@ -15,6 +15,7 @@
 
 ## Memory Evasion
 - [Avoiding Memory Scanners](https://www.blackhillsinfosec.com/avoiding-memory-scanners/)
+- [In-Memory Disassembly for EDR/AV Unhooking](https://signal-labs.com/analysis-of-edr-hooks-bypasses-amp-our-rust-sample/)
 - [Detecting and Advancing In-Memory .NET Tradecraft](https://www.mdsec.co.uk/2020/06/detecting-and-advancing-in-memory-net-tradecraft/)
 - [Reducing The Indicators of Compromise (IOCs) on Beacon and Team Server](https://perspectiverisk.com/reducing-the-indicators-of-compromise-iocs-on-beacon-and-team-server/)
 - [SleepyCrypt: Encrypting a running PE image while it sleeps](https://www.solomonsklash.io/SleepyCrypt-shellcode-to-encrypt-a-running-image.html)
