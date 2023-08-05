@@ -17,6 +17,7 @@ Process Injection Techniques & Shellcode Loaders
 - Process Herpaderping
 - Process Doppelganging
 - Process Reimaging
+- [Process Mockingjay](https://www.securityjoes.com/post/process-mockingjay-echoing-rwx-in-userland-to-achieve-code-execution)
 - Module Stomping
 - Function Stomping
 - Asychronous Procedure Call (APC) Injection
