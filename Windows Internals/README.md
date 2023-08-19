@@ -1,6 +1,7 @@
 # Windows Internals
 
 ## Kernel Mode
+- [Journey into Windows Kernel Exploitation: The Basics](https://blog.neuvik.com/journey-into-windows-kernel-exploitation-the-basics-fff72116ca33)
 - [Finding and exploiting process killer drivers with LOL for 3000$](https://alice.climent-pommeret.red/posts/process-killer-driver/)
 - [Kernel Mode Threats and Practical Defenses](https://www.youtube.com/watch?v=BBJgKuXzfwc)
 - [Morten Schenk - Taking Windows 10 Kernel Exploitation to the next level](https://youtu.be/33Jr1wkaCmQ)
