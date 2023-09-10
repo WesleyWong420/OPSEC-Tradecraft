@@ -44,6 +44,7 @@ NtAllocateVirtualMemory fSyscallAllocateMemory = (NtAllocateVirtualMemory)Marsha
 3. Hide code in locations it would normally exist, such as file-backed sections.
 
 ## Documentations
+- [MalAPI.io](https://malapi.io/)
 - [PInvoke.net](http://pinvoke.net/index.aspx)
 - [DInvoke.net](https://dinvoke.net/)
 - [NtDoc](https://ntdoc.m417z.com/)
