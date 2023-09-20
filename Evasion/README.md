@@ -21,6 +21,7 @@
 - [Detecting and Advancing In-Memory .NET Tradecraft](https://www.mdsec.co.uk/2020/06/detecting-and-advancing-in-memory-net-tradecraft/)
 - [Reducing The Indicators of Compromise (IOCs) on Beacon and Team Server](https://perspectiverisk.com/reducing-the-indicators-of-compromise-iocs-on-beacon-and-team-server/)
 - [SleepyCrypt: Encrypting a running PE image while it sleeps](https://www.solomonsklash.io/SleepyCrypt-shellcode-to-encrypt-a-running-image.html)
+- [An Introduction into Stack Spoofing](https://dtsec.us/2023-09-15-StackSpoofin/)
 
 ## Antimalware Scan Interface (AMSI)
 - [Memory Patching AMSI Bypass ](https://rastamouse.me/memory-patching-amsi-bypass/)
