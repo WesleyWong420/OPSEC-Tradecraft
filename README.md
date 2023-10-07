@@ -5,6 +5,7 @@ OPSEC Tradecraft and TTPs for Red Team Operations - A.K.A my bookmark for red te
 - [Red Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki)
 - [Building a Red Team Infrastructure in 2023](https://www.securesystems.de/blog/building-a-red-team-infrastructure-in-2023/)
 - [Safe Red Team Infrastructure](https://malcomvetter.medium.com/safe-red-team-infrastructure-c5d6a0f13fac)
+- [Red Team Infrastructure Done Right](https://notes.huskyhacks.dev/blog/red-team-infrastructure-done-right)
 - [Red Team OffSecOps](https://www.praetorian.com/blog/praetorians-approach-to-red-team-infrastructure/)
 - [Red Team Infrastructure Automation with Terraform & Ansible](https://blog.joeminicucci.com/2021/redira#module-abstractions)
 - [Red Teaming: Easy Phishing Infrastructure Setup](https://payatu.com/blog/phishing-infrastructure-setup/)
@@ -13,7 +14,6 @@ OPSEC Tradecraft and TTPs for Red Team Operations - A.K.A my bookmark for red te
 - [RedELK Part 1: Why we need it](https://outflank.nl/blog/2019/02/14/introducing-redelk-part-1-why-we-need-it/)
 - [RedELK Part 2: Getting you up and running](https://outflank.nl/blog/2020/02/28/redelk-part-2-getting-you-up-and-running/)
 - [RedELK Part 3: Achieving operational oversight](https://outflank.nl/blog/2020/04/07/redelk-part-3-achieving-operational-oversight/)
-- [Hunting C2 (Shodan)](https://michaelkoczwara.medium.com/hunting-c2-with-shodan-223ca250d06f)
 
 ## Tradesmith Blogpost
 - [RastaMouse.me](https://rastamouse.me/)
