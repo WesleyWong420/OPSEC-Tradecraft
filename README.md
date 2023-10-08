@@ -7,6 +7,7 @@ OPSEC Tradecraft and TTPs for Red Team Operations - A.K.A my bookmark for red te
 - [Safe Red Team Infrastructure](https://malcomvetter.medium.com/safe-red-team-infrastructure-c5d6a0f13fac)
 - [Red Team Infrastructure Done Right](https://notes.huskyhacks.dev/blog/red-team-infrastructure-done-right)
 - [Designing Effective Covert Red Team Attack Infrastructure](https://bluescreenofjeff.com/2017-12-05-designing-effective-covert-red-team-attack-infrastructure/)
+- [HTTPS Payload and C2 Redirectors](https://bluescreenofjeff.com/2018-04-12-https-payload-and-c2-redirectors/)
 - [Red Team OffSecOps](https://www.praetorian.com/blog/praetorians-approach-to-red-team-infrastructure/)
 - [Red Team Infrastructure Automation with Terraform & Ansible](https://blog.joeminicucci.com/2021/redira#module-abstractions)
 - [Red Teaming: Easy Phishing Infrastructure Setup](https://payatu.com/blog/phishing-infrastructure-setup/)
