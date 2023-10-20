@@ -3,7 +3,11 @@
 ## Kernel Mode
 - [Journey into Windows Kernel Exploitation: The Basics](https://blog.neuvik.com/journey-into-windows-kernel-exploitation-the-basics-fff72116ca33)
 - [Finding and exploiting process killer drivers with LOL for 3000$](https://alice.climent-pommeret.red/posts/process-killer-driver/)
-
+- [Lord Of The Ring0 - Part 1 | Introduction](https://idov31.github.io/2022/07/14/lord-of-the-ring0-p1.html)
+- [Lord Of The Ring0 - Part 2 | A tale of routines, IOCTLs and IRPs](https://idov31.github.io/2022/08/04/lord-of-the-ring0-p2.html)
+- [Lord Of The Ring0 - Part 3 | Sailing to the land of the user (and debugging the ship)](https://idov31.github.io/2022/10/30/lord-of-the-ring0-p3.html)
+- [Lord Of The Ring0 - Part 4 | The call back home](https://idov31.github.io/2023/02/24/lord-of-the-ring0-p4.html)
+- [Lord Of The Ring0 - Part 5 | Saruman's Manipulation](https://idov31.github.io/2023/07/19/lord-of-the-ring0-p5.html)
 
 ## Videos
 - [Windows Internals for Red Teams](https://youtu.be/U5dhuyPm6n8)
