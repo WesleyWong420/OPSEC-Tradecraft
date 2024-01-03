@@ -12,6 +12,7 @@
 ## Videos
 - [Windows Internals for Red Teams](https://youtu.be/U5dhuyPm6n8)
 - [Windows Internals Crash Course](https://youtu.be/I_nJltUokE0)
+- [Windows Security Research: A Practical Guide for Beginners to find 0 days - HackTricks Track 2023](https://youtu.be/OuL-7GPhhAQ?si=pLN6GNboX9VTveJ8)
 - [A Look at Modern Windows Kernel Exploitation](https://youtu.be/jWIkhg0Ufr4?si=tUBiOhhlpvUW6-p_)
 - [Kernel Mode Threats and Practical Defenses](https://www.youtube.com/watch?v=BBJgKuXzfwc)
 - [Taking Windows 10 Kernel Exploitation to the next level](https://youtu.be/33Jr1wkaCmQ)
