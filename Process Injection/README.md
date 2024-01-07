@@ -48,6 +48,7 @@ Process Injection Techniques & Shellcode Loaders
 - [Process injection in 2023, evading leading EDRs](https://vanmieghem.io/process-injection-evading-edr-in-2023/)
 - [AppDomain Manager Injection: New Techniques For Red Teams](https://www.rapid7.com/blog/post/2023/05/05/appdomain-manager-injection-new-techniques-for-red-teams/)
 - [NO ALLOC, NO PROBLEM: LEVERAGING PROGRAM ENTRY POINTS FOR PROCESS INJECTION](https://bohops.com/2023/06/09/no-alloc-no-problem-leveraging-program-entry-points-for-process-injection/)
+- [SafeHandle vs IntPtr ](https://rastamouse.me/safehandle-vs-intptr/)
 
 ## Donut
 - [Donut - Injecting .NET Assemblies as Shellcode](https://thewover.github.io/Introducing-Donut/)
