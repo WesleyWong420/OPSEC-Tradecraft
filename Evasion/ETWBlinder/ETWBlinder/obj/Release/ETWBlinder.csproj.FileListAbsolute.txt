@@ -1,0 +1,8 @@
+C:\Users\JesusCries\Desktop\Tools\ETWBlinder\ETWBlinder\bin\Release\ETWBlinder.exe.config
+C:\Users\JesusCries\Desktop\Tools\ETWBlinder\ETWBlinder\bin\Release\ETWBlinder.exe
+C:\Users\JesusCries\Desktop\Tools\ETWBlinder\ETWBlinder\bin\Release\ETWBlinder.pdb
+C:\Users\JesusCries\Desktop\Tools\ETWBlinder\ETWBlinder\obj\Release\ETWBlinder.csproj.AssemblyReference.cache
+C:\Users\JesusCries\Desktop\Tools\ETWBlinder\ETWBlinder\obj\Release\ETWBlinder.csproj.SuggestedBindingRedirects.cache
+C:\Users\JesusCries\Desktop\Tools\ETWBlinder\ETWBlinder\obj\Release\ETWBlinder.csproj.CoreCompileInputs.cache
+C:\Users\JesusCries\Desktop\Tools\ETWBlinder\ETWBlinder\obj\Release\ETWBlinder.exe
+C:\Users\JesusCries\Desktop\Tools\ETWBlinder\ETWBlinder\obj\Release\ETWBlinder.pdb
