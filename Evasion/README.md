@@ -2,15 +2,15 @@
 
 ## Project Description
 
-- ETWLoader
+- **ETWLoader**
   - ETW Patching via EtwEventWrite
-- ETWBlinder
+- **ETWBlinder**
   - ETW Patching via NtTraceEvent
-- DirectSyscall
+- **DirectSyscall**
   - Implementation of Direct Syscall in C++ Without D/Invoke
-- ManualMapping
+- **ManualMapping**
   - Implementation of Manual Mapping in C++ Without D/Invoke
-- GhostMapping
+- **GhostMapping**
   - Implementation of Manual Mapping via Suspended Process in C++ Without D/Invoke
 
 ## Resources
