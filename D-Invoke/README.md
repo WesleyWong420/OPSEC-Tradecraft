@@ -51,6 +51,7 @@ NtAllocateVirtualMemory fSyscallAllocateMemory = (NtAllocateVirtualMemory)Marsha
 - [Undocumented NTInternals](http://undocumented.ntinternals.net/index.html)
 - [ReactOS Source Code](https://doxygen.reactos.org/index.html)
 - [Syscall Table](https://j00ru.vexillium.org/syscalls/nt/64/)
+- [Vergilius Project](https://www.vergiliusproject.com/kernels)
 
 ## References
 - [Emulating Covert Operations - Dynamic Invocation (Avoiding PInvoke & API Hooks)](https://thewover.github.io/Dynamic-Invoke/)
