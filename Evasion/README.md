@@ -1,6 +1,16 @@
 # Evasion
 
-## EDR Evasion
+## Project Description
+
+- ETWLoader: ETW Patching via EtwEventWrite
+- ETWBlinder: ETW Patching via NtTraceEvent
+- DirectSyscall: Implementation of Direct Syscall in C++ Without D/Invoke
+- ManualMapping: Implementation of Manual Mapping in C++ Without D/Invoke
+- GhostMapping: Implementation of Manual Mapping via Suspended Process in C++ Without D/Invoke
+
+## Resources
+
+### EDR Evasion
 - [A story about tampering EDRs](https://redops.at/en/blog/a-story-about-tampering-edrs)
 - [Meterpreter vs Modern EDR(s)](https://redops.at/en/blog/meterpreter-vs-modern-edrs-in-2023)
 - [Direct Syscalls: A journey from high to low](https://redops.at/en/blog/direct-syscalls-a-journey-from-high-to-low)
@@ -15,7 +25,7 @@
 - [Cat & Mouse - or Chess?](https://s3cur3th1ssh1t.github.io/Cat_Mouse_or_Chess/)
 - [EDR bypassing via memory manipulation techniques](https://labs.withsecure.com/publications/edr-bypassing-via-memory-manipulation-techniques)
 
-## Memory Evasion
+### Memory Evasion
 - [Avoiding Memory Scanners](https://www.blackhillsinfosec.com/avoiding-memory-scanners/)
 - [In-Memory Disassembly for EDR/AV Unhooking](https://signal-labs.com/analysis-of-edr-hooks-bypasses-amp-our-rust-sample/)
 - [Detecting and Advancing In-Memory .NET Tradecraft](https://www.mdsec.co.uk/2020/06/detecting-and-advancing-in-memory-net-tradecraft/)
@@ -24,15 +34,15 @@
 - [An Introduction into Stack Spoofing](https://dtsec.us/2023-09-15-StackSpoofin/)
 - [Reflective call stack detections and evasions](https://securityintelligence.com/x-force/reflective-call-stack-detections-evasions/)
 
-## Antimalware Scan Interface (AMSI)
+### Antimalware Scan Interface (AMSI)
 - [Memory Patching AMSI Bypass ](https://rastamouse.me/memory-patching-amsi-bypass/)
 - [[Malware] Bypass AMSI in local process hooking NtCreateSection](https://waawaa.github.io/es/amsi_bypass-hooking-NtCreateSection/)
 - [Bypass AMSI on Windows 11](https://gustavshen.medium.com/bypass-amsi-on-windows-11-75d231b2cac6)
 
-## Event Tracing for Windows (ETW)
+### Event Tracing for Windows (ETW)
 - [ETWHash – “He who listens, shall receive”](https://labs.nettitude.com/blog/etwhash-he-who-listens-shall-receive/)
 
-## Videos
+### Videos
 - [Evasion in Depth - Techniques Across the Kill-Chain by Mariusz Banach](https://youtu.be/IbA7Ung39o4)
 - [Intro to Syscalls for Windows Malware](https://youtu.be/elA_eiqWefw)
 - [AV/EDR Evasion: Packer Style](https://youtu.be/Q2vazB6SYfg)
