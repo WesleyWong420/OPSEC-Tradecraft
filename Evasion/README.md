@@ -8,13 +8,13 @@
   - ETW Patching via NtTraceEvent
 - **DirectSyscall**
   - Implementation of Direct Syscall in C++ Without D/Invoke
-  - Drawback: Abnormal for user-land application to execute syscall directly, causing a malformed call stack where code execution does not flow through the userland DLLs when a direct syscall is made, but directly to the kernel.
+  - *Drawback: Abnormal for user-land application to execute syscall directly, causing a malformed call stack where code execution does not flow through the userland DLLs when a direct syscall is made, but directly to the kernel.*
 - **ManualMapping**
   - Implementation of Manual Mapping in C++ Without D/Invoke
-  - Drawback: Loading of ntdll.dll into single process multiple times.
+  - *Drawback: Loading of ntdll.dll into single process multiple times.*
 - **GhostMapping**
   - Implementation of Manual Mapping via Suspended Process in C++ Without D/Invoke
-  - Drawback: Rare for applications to create a temporary suspended process for legitimate reasons.
+  - *Drawback: Rare for applications to create a temporary suspended process for legitimate reasons.*
 
 ## Resources
 
