@@ -1,0 +1,3 @@
+﻿  ManualMapping.cpp
+C:\Users\Wesley\source\repos\ManualMapping\ManualMapping\ManualMapping.cpp(24,23): warning C4390: ';': empty controlled statement found; is this the intent?
+  ManualMapping.vcxproj -> C:\Users\Wesley\source\repos\ManualMapping\x64\Debug\ManualMapping.exe
