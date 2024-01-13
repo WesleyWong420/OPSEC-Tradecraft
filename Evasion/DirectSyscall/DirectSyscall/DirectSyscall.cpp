@@ -31,30 +31,30 @@ int main()
 	LPVOID baseAddress = NULL;
 
 	NtAllocateVirtualMemory(hProcess,
-							&baseAddress,
-							0,
-							&bufferSize,
-							MEM_COMMIT | MEM_RESERVE,
-							PAGE_EXECUTE_READWRITE);
-	std::cout << &baseAddress;
+				&baseAddress,
+				0,
+				&bufferSize,
+				MEM_COMMIT | MEM_RESERVE,
+				PAGE_EXECUTE_READWRITE);
+	std::cout << std::hex << baseAddress;
 
 	NtWriteVirtualMemory(hProcess,
-						baseAddress,
-						buffer,
-						sizeof(buffer),
-						NULL);
+			     baseAddress,
+			     buffer,
+			     sizeof(buffer),
+			     NULL);
 
 	NtCreateThreadEx(&hThread, 
-					THREAD_ALL_ACCESS, 
-					NULL, 
-					hProcess,
-					baseAddress, 
-					NULL, 
-					FALSE, 
-					0, 
-					0, 
-					0, 
-					NULL);
+			THREAD_ALL_ACCESS, 
+			NULL, 
+			hProcess,
+			baseAddress, 
+			NULL, 
+			FALSE, 
+			0, 
+			0, 
+			0, 
+			NULL);
 
 	NtWaitForSingleObject(hThread, FALSE, NULL);
 }
