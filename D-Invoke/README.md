@@ -45,8 +45,7 @@ NtAllocateVirtualMemory fSyscallAllocateMemory = (NtAllocateVirtualMemory)Marsha
 
 ## Documentations
 - [MalAPI.io](https://malapi.io/)
-- [PInvoke.net](http://pinvoke.net/index.aspx)
-- [DInvoke.net](https://dinvoke.net/)
+- [PInvoke.dev](https://www.pinvoke.dev/)
 - [NtDoc](https://ntdoc.m417z.com/)
 - [Undocumented NTInternals](http://undocumented.ntinternals.net/index.html)
 - [ReactOS Source Code](https://doxygen.reactos.org/index.html)
