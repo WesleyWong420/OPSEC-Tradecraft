@@ -49,6 +49,7 @@ Process Injection Techniques & Shellcode Loaders
 - [AppDomain Manager Injection: New Techniques For Red Teams](https://www.rapid7.com/blog/post/2023/05/05/appdomain-manager-injection-new-techniques-for-red-teams/)
 - [NO ALLOC, NO PROBLEM: LEVERAGING PROGRAM ENTRY POINTS FOR PROCESS INJECTION](https://bohops.com/2023/06/09/no-alloc-no-problem-leveraging-program-entry-points-for-process-injection/)
 - [SafeHandle vs IntPtr ](https://rastamouse.me/safehandle-vs-intptr/)
+- [Creating an OPSEC safe loader for Red Team Operations](https://labs.nettitude.com/blog/creating-an-opsec-safe-loader-for-red-team-operations/)
 
 ## Donut
 - [Donut - Injecting .NET Assemblies as Shellcode](https://thewover.github.io/Introducing-Donut/)
