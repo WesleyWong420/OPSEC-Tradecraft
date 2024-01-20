@@ -6,7 +6,6 @@
   - *Drawback: A process cannot change its own command line arguments.*
 - **PPIDSpoofing**
   - *Drawback: Mismatched parent and creator process IDs.*
-- **DirectSyscall**
 - **ETWLoader**
   - ETW Patching via EtwEventWrite in C#
 - **ETWBlinder**
