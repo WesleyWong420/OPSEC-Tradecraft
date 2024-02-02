@@ -2,7 +2,7 @@
 
 ## Kernel API Prefixes
 | Prefix | Purpose                       |
-|--------|-------------------------------|
+|--------|:-----------------------------:|
 | Ex     | General Executive Functions |
 | Ke     | General Kernel Functions |
 | Cc     | Cache Controller |
