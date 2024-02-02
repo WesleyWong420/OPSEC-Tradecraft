@@ -1,5 +1,24 @@
 # Windows Internals
 
+## Kernel API Prefixes
+| Prefix | Purpose                       |
+|--------|-------------------------------|
+| Ex     | General Executive Functions |
+| Ke     | General Kernel Functions |
+| Cc     | Cache Controller |
+| Mm     | Memory Manager |
+| Rtl    | General Runtime Library |
+| FsRtl  | File System Runtime Library |
+| Flt    | File System Mini-filters |
+| Ob     | Object Manager |
+| Io     | I/O Manager |
+| Se     | Security |
+| Ps     | Process Structure |
+| Po     | Power Manager |
+| Wmi    | Windows Management Instrumentation |
+| Zw     | Native API Wrappers |
+| Hal    | Hardware Abstraction Layer |
+
 ## Kernel Mode
 - [Journey into Windows Kernel Exploitation: The Basics](https://blog.neuvik.com/journey-into-windows-kernel-exploitation-the-basics-fff72116ca33)
 - [Finding and exploiting process killer drivers with LOL for 3000$](https://alice.climent-pommeret.red/posts/process-killer-driver/)
