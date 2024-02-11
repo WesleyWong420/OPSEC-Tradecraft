@@ -51,6 +51,10 @@ Process Injection Techniques & Shellcode Loaders
 - [SafeHandle vs IntPtr ](https://rastamouse.me/safehandle-vs-intptr/)
 - [Creating an OPSEC safe loader for Red Team Operations](https://labs.nettitude.com/blog/creating-an-opsec-safe-loader-for-red-team-operations/)
 
+## Technical Details
+- [The Pool Party You Will Never Forget: New Process Injection Techniques Using Windows Thread Pools](https://www.safebreach.com/blog/process-injection-using-windows-thread-pools)
+- [A Deep Dive Into Exploiting Windows Thread Pools](https://urien.gitbook.io/diago-lima/a-deep-dive-into-exploiting-windows-thread-pools)
+
 ## Donut
 - [Donut - Injecting .NET Assemblies as Shellcode](https://thewover.github.io/Introducing-Donut/)
 - [Donut v0.9.1 "Apple Fritter" - Dual-Mode Shellcode, AMSI, and More](https://thewover.github.io/Apple-Fritter/)
