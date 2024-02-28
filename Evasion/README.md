@@ -38,13 +38,13 @@
 ### Memory Evasion
 - [Avoiding Memory Scanners](https://www.blackhillsinfosec.com/avoiding-memory-scanners/)
 - [In-Memory Disassembly for EDR/AV Unhooking](https://signal-labs.com/analysis-of-edr-hooks-bypasses-amp-our-rust-sample/)
+- [EDR bypassing via memory manipulation techniques](https://labs.withsecure.com/publications/edr-bypassing-via-memory-manipulation-techniques)
 - [Detecting and Advancing In-Memory .NET Tradecraft](https://www.mdsec.co.uk/2020/06/detecting-and-advancing-in-memory-net-tradecraft/)
 - [Reducing The Indicators of Compromise (IOCs) on Beacon and Team Server](https://perspectiverisk.com/reducing-the-indicators-of-compromise-iocs-on-beacon-and-team-server/)
 - [SleepyCrypt: Encrypting a running PE image while it sleeps](https://www.solomonsklash.io/SleepyCrypt-shellcode-to-encrypt-a-running-image.html)
 - [An Introduction into Sleep Obfuscation](https://dtsec.us/2023-04-24-Sleep/)
 - [An Introduction into Stack Spoofing](https://dtsec.us/2023-09-15-StackSpoofin/)
 - [Spoofing Call Stacks To Confuse EDRs](https://labs.withsecure.com/publications/spoofing-call-stacks-to-confuse-edrs)
-- [EDR bypassing via memory manipulation techniques](https://labs.withsecure.com/publications/edr-bypassing-via-memory-manipulation-techniques)
 - [Reflective call stack detections and evasions](https://securityintelligence.com/x-force/reflective-call-stack-detections-evasions/)
 
 ### Antimalware Scan Interface (AMSI)
@@ -59,3 +59,4 @@
 - [Evasion in Depth - Techniques Across the Kill-Chain by Mariusz Banach](https://youtu.be/IbA7Ung39o4)
 - [Intro to Syscalls for Windows Malware](https://youtu.be/elA_eiqWefw)
 - [AV/EDR Evasion: Packer Style](https://youtu.be/Q2vazB6SYfg)
+- [Knocking Out Post-Exploitation Kits](https://youtu.be/kVYlYAR2R7E?si=YUdLiXlMdc6Z9FT1)
