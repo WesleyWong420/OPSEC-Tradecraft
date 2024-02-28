@@ -33,9 +33,7 @@
 - [Bypassing User-Mode Hooks and Direct Invocation of System Calls for Red Teams](https://www.mdsec.co.uk/2020/12/bypassing-user-mode-hooks-and-direct-invocation-of-system-calls-for-red-teams/)
 - [Red Team Tactics: Combining Direct System Calls and sRDI to bypass AV/EDR](https://outflank.nl/blog/2019/06/19/red-team-tactics-combining-direct-system-calls-and-srdi-to-bypass-av-edr/)
 - [Blindside: A New Technique for EDR Evasion with Hardware Breakpoints](https://cymulate.com/blog/blindside-a-new-technique-for-edr-evasion-with-hardware-breakpoints)
-- [Spoofing Call Stacks To Confuse EDRs](https://labs.withsecure.com/publications/spoofing-call-stacks-to-confuse-edrs)
 - [Cat & Mouse - or Chess?](https://s3cur3th1ssh1t.github.io/Cat_Mouse_or_Chess/)
-- [EDR bypassing via memory manipulation techniques](https://labs.withsecure.com/publications/edr-bypassing-via-memory-manipulation-techniques)
 
 ### Memory Evasion
 - [Avoiding Memory Scanners](https://www.blackhillsinfosec.com/avoiding-memory-scanners/)
@@ -43,7 +41,10 @@
 - [Detecting and Advancing In-Memory .NET Tradecraft](https://www.mdsec.co.uk/2020/06/detecting-and-advancing-in-memory-net-tradecraft/)
 - [Reducing The Indicators of Compromise (IOCs) on Beacon and Team Server](https://perspectiverisk.com/reducing-the-indicators-of-compromise-iocs-on-beacon-and-team-server/)
 - [SleepyCrypt: Encrypting a running PE image while it sleeps](https://www.solomonsklash.io/SleepyCrypt-shellcode-to-encrypt-a-running-image.html)
+- [An Introduction into Sleep Obfuscation](https://dtsec.us/2023-04-24-Sleep/)
 - [An Introduction into Stack Spoofing](https://dtsec.us/2023-09-15-StackSpoofin/)
+- [Spoofing Call Stacks To Confuse EDRs](https://labs.withsecure.com/publications/spoofing-call-stacks-to-confuse-edrs)
+- [EDR bypassing via memory manipulation techniques](https://labs.withsecure.com/publications/edr-bypassing-via-memory-manipulation-techniques)
 - [Reflective call stack detections and evasions](https://securityintelligence.com/x-force/reflective-call-stack-detections-evasions/)
 
 ### Antimalware Scan Interface (AMSI)
