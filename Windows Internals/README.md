@@ -27,6 +27,7 @@
 - [Lord Of The Ring0 - Part 3 | Sailing to the land of the user (and debugging the ship)](https://idov31.github.io/2022/10/30/lord-of-the-ring0-p3.html)
 - [Lord Of The Ring0 - Part 4 | The call back home](https://idov31.github.io/2023/02/24/lord-of-the-ring0-p4.html)
 - [Lord Of The Ring0 - Part 5 | Saruman's Manipulation](https://idov31.github.io/2023/07/19/lord-of-the-ring0-p5.html)
+- [Hunting Vulnerable Kernel Drivers](https://blogs.vmware.com/security/2023/10/hunting-vulnerable-kernel-drivers.html)
 
 ## Videos
 - [Windows Internals for Red Teams](https://youtu.be/U5dhuyPm6n8)
