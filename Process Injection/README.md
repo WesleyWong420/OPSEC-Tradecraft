@@ -23,6 +23,8 @@ Process Injection Techniques & Shellcode Loaders
 - Function Stomping
 - Asychronous Procedure Call (APC) Injection
 - Inter-Process Mapped View
+- Thread Local Storage Injection
+- Exception-Dispatching Injection
 - Early Bird
 - Atom Bombing
 - Hell's Gate
