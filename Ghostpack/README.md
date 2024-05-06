@@ -18,5 +18,6 @@ A collection of pre-compiled .NET binaries:
 - [SpoolSample](https://github.com/leechristensen/SpoolSample)
 - [Mimikatz](https://github.com/gentilkiwi/mimikatz)
 
-Optimization for Evasion via Microsoft Visual C++ Compiler:
+Optimization for Evasion via Microsoft Visual C++ Compiler (MSVC):
+
 `cl.exe /O2 /Ob2 /Os /Gs- /Zi /EHsc- /GL /Os /GF /Gy /GA main.cpp`
