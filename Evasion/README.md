@@ -60,3 +60,4 @@
 - [Intro to Syscalls for Windows Malware](https://youtu.be/elA_eiqWefw)
 - [AV/EDR Evasion: Packer Style](https://youtu.be/Q2vazB6SYfg)
 - [Knocking Out Post-Exploitation Kits](https://youtu.be/kVYlYAR2R7E?si=YUdLiXlMdc6Z9FT1)
+- [DEF CON 30 - Kyle Avery - Avoiding Memory Scanners - Customizing Malware to Evade YARA, PE-sieve](https://youtu.be/edIMUcxCueA?si=LDxWHhdlVZTcCca9)
