@@ -21,3 +21,7 @@ A collection of pre-compiled .NET binaries:
 Optimization for Evasion via Microsoft Visual C++ Compiler (MSVC):
 
 `cl.exe /O2 /Ob2 /Os /Gs- /Zi /EHsc- /GL /Os /GF /Gy /GA main.cpp`
+
+Optimization for Evasion via Rust Compiler (Rustc):
+
+`RUSTFLAGS="-Zlocation-detail=none" cargo +nightly build --release`
