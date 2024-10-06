@@ -5,6 +5,7 @@ A collection of pre-compiled .NET binaries:
 - [Certify](https://github.com/GhostPack/Certify)
 - [ForgeCert](https://github.com/GhostPack/ForgeCert)
 - [Rubeus](https://github.com/GhostPack/Rubeus)
+- [SafetyKatz](https://github.com/GhostPack/SafetyKatz)
 - [Seatbelt](https://github.com/GhostPack/Seatbelt)
 - [SharPersist](https://github.com/h4wkst3r/SharPersist)
 - [SharpChromium](https://github.com/djhohnstein/SharpChromium)
