@@ -4,6 +4,7 @@ A collection of pre-compiled .NET binaries:
 - [ADSearch](https://github.com/tomcarver16/ADSearch)
 - [Certify](https://github.com/GhostPack/Certify)
 - [ForgeCert](https://github.com/GhostPack/ForgeCert)
+- [LetMeowIn](https://github.com/Meowmycks/LetMeowIn)
 - [Rubeus](https://github.com/GhostPack/Rubeus)
 - [SafetyKatz](https://github.com/GhostPack/SafetyKatz)
 - [Seatbelt](https://github.com/GhostPack/Seatbelt)
