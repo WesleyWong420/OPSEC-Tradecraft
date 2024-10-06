@@ -11,6 +11,7 @@ A collection of pre-compiled .NET binaries:
 - [SharpDPAPI](https://github.com/GhostPack/SharpDPAPI)
 - [SharpGPOAbuse](https://github.com/FSecureLABS/SharpGPOAbuse)
 - [SharpHound](https://github.com/BloodHoundAD/SharpHound)
+- [SharpSCCM.exe](https://github.com/Mayyhem/SharpSCCM)
 - [SharpSpoolTrigger](https://github.com/cube0x0/SharpSystemTriggers)
 - [SharpUp](https://github.com/GhostPack/SharpUp)
 - [SharpView](https://github.com/tevora-threat/SharpView)
