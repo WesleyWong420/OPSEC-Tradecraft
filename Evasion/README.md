@@ -35,6 +35,7 @@
 - [Blindside: A New Technique for EDR Evasion with Hardware Breakpoints](https://cymulate.com/blog/blindside-a-new-technique-for-edr-evasion-with-hardware-breakpoints)
 - [Cat & Mouse - or Chess?](https://s3cur3th1ssh1t.github.io/Cat_Mouse_or_Chess/)
 - [Fun with Exception Handlers](https://mannyfreddy.gitbook.io/ya-boy-manny#basics)
+- [The (Anti-)EDR Compendium](https://blog.deeb.ch/posts/how-edr-works/)
 
 ### Memory Evasion
 - [Avoiding Memory Scanners](https://www.blackhillsinfosec.com/avoiding-memory-scanners/)
