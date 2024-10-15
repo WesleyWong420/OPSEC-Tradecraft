@@ -8,6 +8,7 @@ OPSEC Tradecraft and TTPs for Red Team Operations - A.K.A my bookmark for red te
 - [Red Team Infrastructure Done Right](https://notes.huskyhacks.dev/blog/red-team-infrastructure-done-right)
 - [Designing Effective Covert Red Team Attack Infrastructure](https://bluescreenofjeff.com/2017-12-05-designing-effective-covert-red-team-attack-infrastructure/)
 - [HTTPS Payload and C2 Redirectors](https://bluescreenofjeff.com/2018-04-12-https-payload-and-c2-redirectors/)
+- [Cobalt Strike - CDN / Reverse Proxy Setup](https://redops.at/en/blog/cobalt-strike-cdn-reverse-proxy-setup)
 - [Red Team OffSecOps](https://www.praetorian.com/blog/praetorians-approach-to-red-team-infrastructure/)
 - [Red Team Infrastructure Automation with Terraform & Ansible](https://blog.joeminicucci.com/2021/redira#module-abstractions)
 - [Red Teaming: Easy Phishing Infrastructure Setup](https://payatu.com/blog/phishing-infrastructure-setup/)
@@ -41,6 +42,8 @@ OPSEC Tradecraft and TTPs for Red Team Operations - A.K.A my bookmark for red te
 - [Inline-Execute-PE](https://github.com/Octoberfest7/Inline-Execute-PE)
 - [InlineExecute-Assembly](https://github.com/anthemtotheego/InlineExecute-Assembly)
 - [Inject-Assembly](https://github.com/kyleavery/inject-assembly)
+- [enumhandles_BOF](https://github.com/Octoberfest7/enumhandles_BOF)
+- [EDRenum-BOF](https://github.com/mlcsec/EDRenum-BOF)
 
 ## User Defined Reflective Loader
 - [Cobalt Strike - User Defined Reflective Loader Studies](https://mav3rick33.gitbook.io/the-lab/offensive-development/cobalt-strike-user-defined-reflective-loader-studies)
