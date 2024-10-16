@@ -29,6 +29,7 @@ Process Injection Techniques & Shellcode Loaders
 - Atom Bombing
 - Hell's Gate
 - Halo's Gate
+- Early Cascade Injection
 
 ## Shellcode Techniques
 - OpenProcess
@@ -59,6 +60,7 @@ Process Injection Techniques & Shellcode Loaders
 - [The Pool Party You Will Never Forget: New Process Injection Techniques Using Windows Thread Pools](https://www.safebreach.com/blog/process-injection-using-windows-thread-pools)
 - [A Deep Dive Into Exploiting Windows Thread Pools](https://urien.gitbook.io/diago-lima/a-deep-dive-into-exploiting-windows-thread-pools)
 - [Burrowing a Hollow in a DLL to Hide](https://trustedsec.com/blog/burrowing-a-hollow-in-a-dll-to-hide)
+- [Introducing Early Cascade Injection: From Windows Process Creation to Stealthy Injection](https://www.outflank.nl/blog/2024/10/15/introducing-early-cascade-injection-from-windows-process-creation-to-stealthy-injection/)
 
 ## Sample Code
 - [Code injection via memory sections and ZwQueueApcThread](https://cocomelonc.github.io/tutorial/2022/01/17/malware-injection-14.html)
