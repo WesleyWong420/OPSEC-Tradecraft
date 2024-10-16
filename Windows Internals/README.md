@@ -18,6 +18,7 @@
 | Wmi    | Windows Management Instrumentation |
 | Zw     | Native API Wrappers |
 | Hal    | Hardware Abstraction Layer |
+| Ldr    | Image Loader |
 
 ## Kernel Mode
 - [Journey into Windows Kernel Exploitation: The Basics](https://blog.neuvik.com/journey-into-windows-kernel-exploitation-the-basics-fff72116ca33)
