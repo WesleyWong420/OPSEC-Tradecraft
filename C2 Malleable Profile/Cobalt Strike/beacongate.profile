@@ -1,6 +1,6 @@
 # https://github.com/Cobalt-Strike/Malleable-C2-Profiles/blob/master/normal/reference.profile#L165
 
-set sample_name "NETS Profile";
+set sample_name "CS 4.10 Profile";
 
 set sleeptime "60000"; 
 set data_jitter "50";
@@ -53,7 +53,7 @@ https-certificate {
 
     # if using a valid vert, specify this, keystore = java keystore
     set keystore "localhost.store";
-    set password "Privas3c!c00lcatz";
+    set password "redacted";
 }
 
 #code-signer {
