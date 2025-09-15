@@ -61,6 +61,7 @@ Process Injection Techniques & Shellcode Loaders
 - [A Deep Dive Into Exploiting Windows Thread Pools](https://urien.gitbook.io/diago-lima/a-deep-dive-into-exploiting-windows-thread-pools)
 - [Burrowing a Hollow in a DLL to Hide](https://trustedsec.com/blog/burrowing-a-hollow-in-a-dll-to-hide)
 - [Introducing Early Cascade Injection: From Windows Process Creation to Stealthy Injection](https://www.outflank.nl/blog/2024/10/15/introducing-early-cascade-injection-from-windows-process-creation-to-stealthy-injection/)
+- [Early Exception Handling](https://kr0tt.github.io/posts/early-exception-handling/)
 
 ## Sample Code
 - [Code injection via memory sections and ZwQueueApcThread](https://cocomelonc.github.io/tutorial/2022/01/17/malware-injection-14.html)
@@ -75,3 +76,4 @@ Process Injection Techniques & Shellcode Loaders
 - [DC29 - Adversary village - Workshop: From zero to hero: creating a reflective loader in C#](https://youtu.be/E6LOQQiNjj0)
 - [Roll for Stealth Intro to AV EDR Evasion | Mike Saunders | WWHF Deadwood 2022](https://youtu.be/TvPE5EAObHw)
 - [Needles Without The Thread: Threadless Process Injection - Ceri Coburn](https://youtu.be/z8GIjk0rfbI)
+
