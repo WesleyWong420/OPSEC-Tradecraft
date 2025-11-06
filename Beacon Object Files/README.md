@@ -1,6 +1,5 @@
 # Beacon Object Files
 
-## Resources
 - [BofAllTheThings](https://github.com/N7WEra/BofAllTheThings)
 - [Outflank - C2 Tool Collection](https://github.com/outflanknl/C2-Tool-Collection)
 - [TrustedSec - Situational Awareness BOF](https://github.com/trustedsec/CS-Situational-Awareness-BOF)
@@ -14,3 +13,4 @@
 - [EDRenum-BOF](https://github.com/mlcsec/EDRenum-BOF)
 - [sekken-enum](https://github.com/Nomad0x7/sekken-enum)
 - [smbtakeover](https://github.com/zyn3rgy/smbtakeover)
+
