@@ -38,14 +38,17 @@ OPSEC Tradecraft and TTPs for Red Team Operations - A.K.A my bookmark for red te
 ## Beacon Object Files
 - [BofAllTheThings](https://github.com/N7WEra/BofAllTheThings)
 - [Outflank - C2 Tool Collection](https://github.com/outflanknl/C2-Tool-Collection)
+- [TrustedSec - Situational Awareness BOF](https://github.com/trustedsec/CS-Situational-Awareness-BOF)
 - [TrustedSec - Remote Operations BOF](https://github.com/trustedsec/CS-Remote-OPs-BOF)
+- [OperatorsKit](https://github.com/REDMED-X/OperatorsKit)
 - [MemFiles](https://github.com/Octoberfest7/MemFiles)
-- [FindObjects](https://github.com/outflanknl/C2-Tool-Collection/tree/main/BOF/FindObjects)
 - [Inline-Execute-PE](https://github.com/Octoberfest7/Inline-Execute-PE)
 - [InlineExecute-Assembly](https://github.com/anthemtotheego/InlineExecute-Assembly)
 - [Inject-Assembly](https://github.com/kyleavery/inject-assembly)
 - [enumhandles_BOF](https://github.com/Octoberfest7/enumhandles_BOF)
 - [EDRenum-BOF](https://github.com/mlcsec/EDRenum-BOF)
+- [sekken-enum](https://github.com/Nomad0x7/sekken-enum)
+- [smbtakeover](https://github.com/zyn3rgy/smbtakeover)
 
 ## User Defined Reflective Loader
 - [Cobalt Strike - User Defined Reflective Loader Studies](https://mav3rick33.gitbook.io/the-lab/offensive-development/cobalt-strike-user-defined-reflective-loader-studies)
