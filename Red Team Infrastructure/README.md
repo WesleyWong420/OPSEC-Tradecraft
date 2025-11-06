@@ -1,6 +1,5 @@
 # Red Team Infrastructure
 
-## Resources
 - [Red Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki)
 - [Building a Red Team Infrastructure in 2023](https://www.securesystems.de/blog/building-a-red-team-infrastructure-in-2023/)
 - [Safe Red Team Infrastructure](https://malcomvetter.medium.com/safe-red-team-infrastructure-c5d6a0f13fac)
@@ -17,3 +16,4 @@
 - [RedELK Part 2: Getting you up and running](https://outflank.nl/blog/2020/02/28/redelk-part-2-getting-you-up-and-running/)
 - [RedELK Part 3: Achieving operational oversight](https://outflank.nl/blog/2020/04/07/redelk-part-3-achieving-operational-oversight/)
 - [Securing C2 Infrastructure for Red Team Operations Using Cloudflare Workers and Zero Trust Tunnels](https://cgomezsec.com/blog/securing-c2-for-rt-operations-using-cloudflare)
+
