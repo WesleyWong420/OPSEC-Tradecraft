@@ -8,7 +8,7 @@
 - [Exploiting BGInfo to Infiltrate a Corporate Network](https://www.varonis.com/blog/exploiting-bginfo-to-infiltrate-a-corporate-network)
 
 ## Living-off-the-Lands Binaries (LOLBins)
-  - MsBuild.exe
+- MsBuild.exe
   - `C:\Windows\Microsoft.NET\Framework64\v4.0.30319\Msbuild.exe msbuild.xml`
 - Microsoft.Workflow.Compiler.exe
   - `C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Workflow.Compiler.exe test.xml test.txt`
