@@ -22,6 +22,7 @@ A collection of pre-compiled .NET binaries:
 - [SharpWMI](https://github.com/GhostPack/SharpWMI)
 - [SpoolSample](https://github.com/leechristensen/SpoolSample)
 - [Mimikatz](https://github.com/gentilkiwi/mimikatz)
+- [DumpGuard](https://github.com/bytewreck/DumpGuard)
 
 Optimization for Evasion via Microsoft Visual C++ Compiler (MSVC):
 
