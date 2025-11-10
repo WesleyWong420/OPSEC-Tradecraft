@@ -3,6 +3,7 @@ A collection of pre-compiled .NET binaries:
 
 - [ADSearch](https://github.com/tomcarver16/ADSearch)
 - [Certify](https://github.com/GhostPack/Certify)
+- [DumpGuard](https://github.com/bytewreck/DumpGuard)
 - [ForgeCert](https://github.com/GhostPack/ForgeCert)
 - [KrbRelayUp](https://github.com/Dec0ne/KrbRelayUp)
 - [LetMeowIn](https://github.com/Meowmycks/LetMeowIn)
@@ -22,7 +23,6 @@ A collection of pre-compiled .NET binaries:
 - [SharpWMI](https://github.com/GhostPack/SharpWMI)
 - [SpoolSample](https://github.com/leechristensen/SpoolSample)
 - [Mimikatz](https://github.com/gentilkiwi/mimikatz)
-- [DumpGuard](https://github.com/bytewreck/DumpGuard)
 
 Optimization for Evasion via Microsoft Visual C++ Compiler (MSVC):
 
