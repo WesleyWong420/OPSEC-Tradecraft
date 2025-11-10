@@ -10,6 +10,7 @@ A collection of pre-compiled .NET binaries:
 - [SafetyKatz](https://github.com/GhostPack/SafetyKatz)
 - [Seatbelt](https://github.com/GhostPack/Seatbelt)
 - [SharPersist](https://github.com/h4wkst3r/SharPersist)
+- [SharpADWS](https://github.com/wh0amitz/SharpADWS)
 - [SharpChromium](https://github.com/djhohnstein/SharpChromium)
 - [SharpDPAPI](https://github.com/GhostPack/SharpDPAPI)
 - [SharpGPOAbuse](https://github.com/FSecureLABS/SharpGPOAbuse)
