@@ -13,4 +13,5 @@
 - [EDRenum-BOF](https://github.com/mlcsec/EDRenum-BOF)
 - [sekken-enum](https://github.com/Nomad0x7/sekken-enum)
 - [smbtakeover](https://github.com/zyn3rgy/smbtakeover)
+- [Adrenaline](https://github.com/atomiczsec/Adrenaline)
 
