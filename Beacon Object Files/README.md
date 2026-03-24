@@ -6,6 +6,7 @@
 - [TrustedSec - Remote Operations BOF](https://github.com/trustedsec/CS-Remote-OPs-BOF)
 - [OperatorsKit](https://github.com/REDMED-X/OperatorsKit)
 - [MemFiles](https://github.com/Octoberfest7/MemFiles)
+- [BOF_RunPe](https://github.com/NtDallas/BOF_RunPe?tab=readme-ov-file#usage)
 - [Inline-Execute-PE](https://github.com/Octoberfest7/Inline-Execute-PE)
 - [InlineExecute-Assembly](https://github.com/anthemtotheego/InlineExecute-Assembly)
 - [Inject-Assembly](https://github.com/kyleavery/inject-assembly)
@@ -16,4 +17,3 @@
 - [cleanldap](https://github.com/mandiant/cleanldap)
 - [smbtakeover](https://github.com/zyn3rgy/smbtakeover)
 - [Adrenaline](https://github.com/atomiczsec/Adrenaline)
-
