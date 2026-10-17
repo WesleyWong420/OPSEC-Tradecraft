@@ -36,6 +36,7 @@
 - [Cat & Mouse - or Chess?](https://s3cur3th1ssh1t.github.io/Cat_Mouse_or_Chess/)
 - [Fun with Exception Handlers](https://mannyfreddy.gitbook.io/ya-boy-manny#basics)
 - [The (Anti-)EDR Compendium](https://blog.deeb.ch/posts/how-edr-works/)
+- [After You’re In: Field Notes on CRTO Prep and OPSEC](https://gikaku.net/2026/10/17/crto-opsec/)
 
 ### Memory Evasion
 - [Avoiding Memory Scanners](https://www.blackhillsinfosec.com/avoiding-memory-scanners/)
